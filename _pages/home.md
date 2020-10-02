@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: Brain AI Lab. - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Brain AI Lab. at Kyungpook National University."
 sitemap: false
 permalink: /
 ---
