@@ -1,4 +1,4 @@
-# BrainAI Lab. at Kyungpook National University
+# BrainAI Lab.
 
 This is our lab website.
 
