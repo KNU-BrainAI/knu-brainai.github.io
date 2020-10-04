@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Journals
 
-[Google Scholar](https://scholar.google.co.kr/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.co.kr/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
