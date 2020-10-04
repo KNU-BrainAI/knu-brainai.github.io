@@ -37,7 +37,7 @@ We are a research group in [School of Electronics Engineering](https://see.knu.a
 
 We investigate artificial intelligence (AI) to understand the Brain. In particular, we develop novel machine & deep learning algorithms based on underlying mechanisms of brain functions and apply state-of-the-art machine & deep learning algorithms to neurophyiolsogical data recorded from the brain. We are also interested in natural language processing, medical image processing using deep learning models. (see our [Research](research)).
 
-We are grateful for funding from [Kyungpook National University](https://www.knu.ac.kr){:target="_blank"}, [National Reserach Foundation of Korea](https://www.nrf.re.kr){:target="_blank"}, and [National Institutes of Health](https://www.nih.gov/){:target="_blank"}.
+We are grateful for funding from Kyungpook National University, National Reserach Foundation of Korea, and National Institutes of Health.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 110px">
