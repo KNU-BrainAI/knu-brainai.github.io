@@ -93,3 +93,27 @@
   highlight: 0
   news1:
   news2:
+
+- title: "Neurophysiological Substrates of Configural Face Perception in Schizotypy"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Caroline Lustenberger, L. Fredrik Jarskog, Flavio Fröhlich
+  journal: Schizophrenia Research (2020)
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0920996419305031
+    display: link
+  highlight: 0
+  news1:
+  news2:
+
+- title: "Targeting the Autonomic Nervous System Balance in Patients with Chronic Low Back Pain Using Transcranial Alternating Current Stimulation: A Randomized, Crossover, Double-Blind, Placebo-Controlled Pilot Study"
+  image: 
+  description: 
+  authors: Julianna H. Prim†, Sangtae Ahn†, Morgan L. Alexander, Karen L. McCulloch, Flavio Fröhlich
+  journal: Journal of Pain Research (2019)
+  link:
+    url: https://www.dovepress.com/articles.php?article_id=50364
+    display: link
+  highlight: 0
+  news1:
+  news2:
