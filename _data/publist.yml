@@ -9,25 +9,59 @@
   highlight: 0
   news2:
 
+- title: "Transcranial Alternating Current Stimulation (tACS) Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
+  image: 
+  description: 
+  authors: Ehsan Negahbani, Iain M. Stitt, Sangtae Ahn, Marshall Davey, Thien T. Doan, Moritz Dannhauer, Anna C. Hoover, Angel V. Peterchev, Susanne Radtke-Schuller, Flavio Fröhlich
+  journal: in revision
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Transcranial alternating current stimulation reduces network hyper-synchrony and persistent vertigo"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Diamond Gleghorn, Benjamin C Doudican, Flavio Fröhlich
+  journal: in revision
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+
+- title: "Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Flavio Fröhlich
+  journal: in revision
+  link:
+    url: 
+    display:
+  highlight: 0
+  news2:
+    
 - title: "Progesterone modulates theta oscillations in the frontal-parietal network"
   image: 
   description: 
   authors: Justin Riddle, Sangtae Ahn, Trevor McPherson, Susan Girdler, Flavio Fröhlich
-  journal: Psychophysiology
+  journal: Psychophysiology (2020)
   link:
     url: http://onlinelibrary.wiley.com/doi/full/10.1111/psyp.13632
     display:  link
   highlight: 0
   news2:
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Brain-derived neurotrophic factor (BDNF) polymorphism gates the efficacy of tACS to modulate neural oscillations"
+  image: 
+  description: 
+  authors: Justin Riddle, Trevor McPherson, Alana K. Atkins, Christopher P. Walker, Sangtae Ahn, Flavio Fröhlich
+  journal: Brain Stimulation (2020)
   link:
-    url: https://arxiv.org/abs/2006.12840
-    display:  arXiv:2006.12840
-  highlight: 1
+    url: https://www.sciencedirect.com/science/article/pii/S1935861X20300917
+    display: link
+  highlight: 0
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
