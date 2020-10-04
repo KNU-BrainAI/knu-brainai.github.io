@@ -2,8 +2,8 @@
 
 This repository is for our lab website.
 
-Go to our lab website [here](https://knu-brainai.github.io/)
+Click the image below to go to the lab website.
 
-<img src="/images/slider7001400/Logo_BrainAILab.jpg" alt="MarineGEO circle logo" style="height: 10px; width:10px;"/>
+<a href="https://knu-brainai.github.io/"><img src="/images/slider7001400/Logo_BrainAILab.jpg" alt="MarineGEO circle logo" style="height: 10px; width:10px;"/></a>
 
 
