@@ -59,7 +59,7 @@ We investigate artificial intelligence (AI) to understand the Brain. In particul
 
 We are located at Kyungpook National University, Daegu, Southh Korea.
 
-We are grateful for funding from [Kyungpook National University](https://www.knu.ac.kr){:target="_blank"}, [National Reserach Foundation of Korea](https://www.nrf.re.kr){:target="_blank"}, and [National Institutes of Health]{:target="_blank"}(https://www.nih.gov/).
+We are grateful for funding from [Kyungpook National University](https://www.knu.ac.kr){:target="_blank"}, [National Reserach Foundation of Korea](https://www.nrf.re.kr){:target="_blank"}, and [National Institutes of Health](https://www.nih.gov/){:target="_blank"}.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 110px">
