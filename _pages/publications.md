@@ -15,7 +15,7 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   {{ publi.authors }} <br />
-  <em>{{ publi.journals }}</em> <br />
+  <em>{{ publi.journal }}</em> <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
