@@ -1,13 +1,15 @@
 - name: Sangtae Ahn
   photo: stahn.jpg
-  info: Assistant professor
+  info: Assistant Professor
   email: stahn@knu.ac.kr
-  education1: 
+  number_educ: 1
+  education1: School of Electronics Engineering, Kyungpook National University
   
 - name: Hyeon Su Kwon
   photo: hskwon.jpg
   info: Undergraduate student
   email: hk3305@gmail.com
+  number_educ: 1
   education1: School of Electronics Engineering, Kyungpook National University
   
 
@@ -15,6 +17,7 @@
   photo: hjkwon.jpg
   info: Undergraduate student
   email: khj0523527@gmail.com
+  number_educ: 1
   education1: School of Electronics Engineering, Kyungpook National University
 
 
@@ -22,6 +25,7 @@
   photo: yhpark.jpg
   info: Undergraduate student
   email: dudgns0808@gmail.com
+  number_educ: 1
   education1: School of Electronics Engineering, Kyungpook National University
 
   
@@ -29,6 +33,7 @@
   photo: eclee.jpg
   info: Undergraduate student
   email: eunchan789@gmail.com
+  number_educ: 1
   education1: School of Electronics Engineering, Kyungpook National University
 
 
@@ -36,4 +41,5 @@
   photo: hjjang.jpg
   info: Undergraduate student
   email: janghj479@gmail.com
+  number_educ: 1
   education1: School of Electronics Engineering, Kyungpook National University
