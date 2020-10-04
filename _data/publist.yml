@@ -117,3 +117,207 @@
   highlight: 0
   news1:
   news2:
+
+- title: "Targeting reduced neural oscillations in patients with schizophrenia by transcranial alternating current stimulation"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Juliann M. Mellin, Sankaraleengam Alagapan, Morgan L. Alexander, John H. Gilmore, L. Fredrik Jarskog, Flavio Fröhlich
+  journal: NeuroImage (2019)
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1053811918320287
+    display: link
+  highlight: 0
+  news1:
+  news2:
+
+- title: "Identifying and Engaging Neuronal Oscillations by Transcranial Alternating Current Stimulation in Patients with Chronic Low Back Pain: A Randomized, Crossover, Double-Blind, Sham-Controlled Pilot Study"
+  image: 
+  description: 
+  authors: Sangtae Ahn†, Julianna H. Prim†, Morgan L. Alexander, Karen L. McCulloch, Flavio Fröhlich
+  journal: Journal of Pain (2019)
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1526590018306424?via%3Dihub
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Modulating Neural Oscillations by Transcranial Static Magnetic Field Stimulation of the Dorsolateral Prefrontal Cortex: A crossover, double‐blind, sham‐controlled pilot study"
+  image: 
+  description: 
+  authors: Alec Sheffield, Sangtae Ahn, Sankaraleengam Alagapan, Flavio Fröhlich
+  journal: European Journal of Neuroscience (2019)
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14232
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Inter-brain phase synchronization during turn-taking verbal interaction – A hyperscanning study using simultaneous EEG/MEG"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Hohyun Cho, Moonyoung Kwon, Kiwoong Kim, Hyukchan Kwon, Bong Soo Kim, Won Seok Chang, Jin Woo Chang, Sung Chan Jun
+  journal: Human Brain Mapping (2018)
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23834
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "User’s Self-Prediction of Performance in Motor Imagery Brain–Computer Interface"
+  image: 
+  description: 
+  authors: Minkyu Ahn, Hohyun Cho, Sangtae Ahn, Sung Chan Jun
+  journal: Frontiers in Human Neuroscience (2018)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2018.00059/full
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Multi-modal integration of EEG-fNIRS for brain-computer interface – current limitations and future directions"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Sung Chan Jun
+  journal: Frontiers in Human Neuroscience (2017)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2017.00503/full
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "EEG datasets for motor imagery brain computer interface"
+  image: 
+  description: 
+  authors: Hohyun Cho, Minkyu Ahn, Sangtae Ahn, Moonyoung Kwon, Sung Chan Jun
+  journal: GigaScience (2017)
+  link:
+    url: https://academic.oup.com/gigascience/article/6/7/gix034/3796323
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Cognitive responses and cortical oscillatory processing at various stereoscopic depths – a simultaneous EEG/MEG study"
+  image: 
+  description: 
+  authors: Hohyun Cho, Min-Koo Kang, Sangtae Ahn, Moonyoung Kwon, Kuk-Jin Yoon, Kiwoong Kim, Sung Chan Jun
+  journal: Journal of Integrative Neuroscience (2017)
+  link:
+    url: https://content.iospress.com/articles/journal-of-integrative-neuroscience/jin018
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Utilization of a combined EEG/NIRS system to predict driver drowsiness"
+  image: 
+  description: 
+  authors: Thien Nguyen†, Sangtae Ahn†,  Hyojung Jang, Jae Gwan Kim, Sung Chan Jun
+  journal: Scientific Reports (2017)
+  link:
+    url: https://www.nature.com/articles/srep43933
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Cortical Responses and Shape Complexity of Stereoscopic Image - A Simultaneous EEG/MEG Study"
+  image: 
+  description: 
+  authors: Hohyun Cho, Min-Koo Kang, Sangtae Ahn, Moonyoung Kwon, Kuk-Jin Yoon, Kiwoong Kim, Sung Chan Jun
+  journal: NeuroSignals (2016)
+  link:
+    url: https://www.karger.com/Article/Abstract/442617
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Exploring Neuro-Physiological Correlates of Drivers' Mental Fatigue Caused by Sleep Deprivation Using Simultaneous EEG, ECG, and fNIRS Data"
+  image: 
+  description: 
+  authors: Sangtae Ahn†, Thien Nguyen†, Hyojung Jang, Jae Gwan Kim, Sung Chan Jun
+  journal: Frontiers in Human Neuroscience (2016)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2016.00219/full
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Steady-state somatosensory evoked potential for brain-computer interface–present and future"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Kiwoong Kim, Sung Chan Jun
+  journal: Frontiers in Human Neuroscience (2016)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2015.00716/full
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Achieving a hybrid brain-computer interface with tactile selective attention and motor imagery"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Minkyu Ahn, Hohyun Cho, Sung Chan Jun
+  journal: Journal of Neural Engineering (2014)
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1741-2560/11/6/066004
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Gamma band activity associated with BCI performance - Simultaneous MEG/EEG study"
+  image: 
+  description: 
+  authors: Minkyu Ahn, Sangtae Ahn, Jun Hee Hong, Hohyun Cho, Kiwoong Kim, Bong Soo Kim, Jin Woo Chang, Sung Chan Jun
+  journal: Frontiers in Human Neuroscience (2013)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2013.00848/full
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "High Theta and Low Alpha Powers may be Indicative of BCI-Illiteracy in Motor Imagery"
+  image: 
+  description: 
+  authors: Minkyu Ahn, Hohyun Cho, Sangtae Ahn, Sung Chan Jun
+  journal: PLoS ONE (2013)
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080886
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Brain Game-Application of Brain Computer Interface: Usability Test through the Demonstration"
+  image: 
+  description: 
+  authors: Minkyu Ahn, Sung Chan Jun, Hohyun Cho, Sangtae Ahn
+  journal: Journal of KIISE: Computing Practices and Letters (2012)
+  link:
+    url: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01958818&language=ko_KR
+    display: link
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Comparative Study on Motor Imagery Feature Extraction Algorithms for EEG (Electroencephalograph) based Brain-Computer Interface"
+  image: 
+  description: 
+  authors: Hohyun Cho, Minkyu Ahn, Sangtae Ahn, Sung Chan Jun
+  journal:  Journal of KIISE: software and application (2011)
+  link:
+    url: http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01738810&language=ko_KR
+    display: link
+  highlight: 0
+  news1:
+  news2:
