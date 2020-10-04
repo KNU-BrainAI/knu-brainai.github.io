@@ -1,9 +1,10 @@
 - title: "Improving performance of tactile selective attention using deep convolutional neural network"
   image: 
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  description: 
+  year: 2020 
+  authors: Sangtae Ahn, Sung Chan Jun
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
+    url: 
     display:  PRB 102, 115416
   highlight: 0
   news2:
