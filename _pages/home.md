@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in [School of Electronics Engineering](https://see.knu.ac.kr){:target="_blank"} at [Kyungpook National University](https://knu.ac.kr){:target="_blank"}. Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+We are a research group in [School of Electronics Engineering](https://see.knu.ac.kr){:target="_blank"} at [Kyungpook National University](https://knu.ac.kr){:target="_blank"}. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
