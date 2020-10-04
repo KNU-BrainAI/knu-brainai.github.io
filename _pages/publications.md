@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Journals
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.co.kr/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.co.kr/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
