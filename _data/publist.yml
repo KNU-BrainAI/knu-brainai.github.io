@@ -1,7 +1,7 @@
 - title: "Improving performance of tactile selective attention using deep convolutional neural network"
   image: 
   description: 
-  authors: Sangtae Ahn and Sung Chan Jun
+  authors: Sangtae Ahn, Sung Chan Jun
   journal: in preparation
   link:
     url: 
@@ -9,14 +9,15 @@
   highlight: 0
   news2:
 
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Progesterone modulates theta oscillations in the frontal-parietal network"
+  image: 
+  description: 
+  authors: Justin Riddle, Sangtae Ahn, Trevor McPherson, Susan Girdler, Flavio Fröhlich
+  journal: Psychophysiology
   link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
-  highlight: 1
+    url: http://onlinelibrary.wiley.com/doi/full/10.1111/psyp.13632
+    display:  link
+  highlight: 0
   news2:
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
