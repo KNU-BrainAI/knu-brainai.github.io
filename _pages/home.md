@@ -55,10 +55,7 @@ We are a research group in [School of Electronics Engineering](https://see.knu.a
   </a>
 </div>
 
-
-
-
-We investigate artificial intelligence (AI) to understand the brain. We develop novel deep learning and machine learning algorithms based on how the brain works.(see [Research](research)).
+We investigate artificial intelligence (AI) to understand the Brain. In particular, we develop novel machine & deep learning algorithms based on underlying mechanisms of brain functions and apply state-of-the-art machine & deep learning algorithms to neurophyiolsogical data recorded from the brain (see [Research](research)).
 
 We are located at Kyungpook National University, Daegu, Southh Korea.
 
