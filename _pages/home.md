@@ -1,5 +1,5 @@
 ---
-title: BrainAI Lab - Home
+title: Brain AI Lab
 layout: homelay
 excerpt: "Brain AI Lab. at Kyungpook National University."
 sitemap: false
