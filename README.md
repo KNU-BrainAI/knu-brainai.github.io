@@ -8,6 +8,6 @@ Click the image below to go to the lab website.
 
 
 
-<a href="https://knu-brainai.github.io/"><img src="/images/slider7001400/Logo_BrainAILab.jpg" alt="Brain AI Lab" height=200 width=200></a>
+<a href="https://knu-brainai.github.io/"><img src="/images/slider7001400/Logo_BrainAILab.jpg" alt="Brain AI Lab" height=263 width=500></a>
 
 
