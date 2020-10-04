@@ -27,7 +27,7 @@ We are a research group in [School of Electronics Engineering](https://see.knu.a
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Logo_BrainAILab.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ai_brain_black.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
