@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "BrainAI Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "BrainAI Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -10,10 +10,7 @@ permalink: /team/
 
  **We are  looking for new students to join the team**
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
+## Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
