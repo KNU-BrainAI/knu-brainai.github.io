@@ -1,6 +1,6 @@
 ---
 title: "BrainAI Lab - Publications"
-layout: gridlay
+layout: textlay
 excerpt: "BrainAI Lab -- Publications."
 sitemap: false
 permalink: /publications/
