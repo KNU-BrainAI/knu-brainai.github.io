@@ -1,19 +1,18 @@
 - name: Sangtae Ahn
-  photo: Milan.jpg
+  photo: stahn.jpg
   info: Assistant professor
   email: stahn@knu.ac.kr
   number_educ: 2
   education1: Postdoc at the University of North Carolina at Chapel Hill
   education2: PhD at Gwangju Institue of Science and Technology
 
-- name: 
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Hyeon Su Kwon
+  photo: 
+  info: Undergraduate
+  email: 
+  number_educ: 1
+  education1: School of Electronics Engineering, Kyungpook National University
+  
 
 - name: Koen M Bastiaans
   photo: Koen.jpg
