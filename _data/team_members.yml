@@ -2,32 +2,38 @@
   photo: stahn.jpg
   info: Assistant professor
   email: stahn@knu.ac.kr
+  education1: 
   
 - name: Hyeon Su Kwon
   photo: hskwon.jpg
   info: Undergraduate student
   email: hk3305@gmail.com
+  education1: School of Electronics Engineering, Kyungpook National University
   
 
 - name: Hyun Ji Kwon
   photo: hjkwon.jpg
   info: Undergraduate student
   email: khj0523527@gmail.com
+  education1: School of Electronics Engineering, Kyungpook National University
 
 
 - name: Young Hoon Park
   photo: yhpark.jpg
   info: Undergraduate student
   email: dudgns0808@gmail.com
+  education1: School of Electronics Engineering, Kyungpook National University
 
   
 - name: Eun Chan Lee
   photo: eclee.jpg
   info: Undergraduate student
   email: eunchan789@gmail.com
+  education1: School of Electronics Engineering, Kyungpook National University
 
 
 - name: Hyun Jin Jang
   photo: hjjang.jpg
   info: Undergraduate student
   email: janghj479@gmail.com
+  education1: School of Electronics Engineering, Kyungpook National University
