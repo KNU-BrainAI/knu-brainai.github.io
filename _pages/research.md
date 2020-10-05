@@ -13,5 +13,8 @@ fields of the neuroscience and artificial intelligence (AI), it is crucial to in
 
 - Machine & Deep Learning
 
+- Natual Language Processing
+
 - Neurophysiological Signal Processing
+
 
