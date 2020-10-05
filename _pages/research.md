@@ -8,4 +8,9 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand the brain using machine & deep learning algorithms. 
+Our overarching goal is to explore and understand the brain using machine & deep learning algorithms.
+- Machine & Deep Learning
+
+- Neurophysiological Signal Processing
+
+- Neuromodulation
