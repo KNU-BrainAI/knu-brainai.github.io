@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in [School of Electronics Engineering](https://see.knu.ac.kr/eng/){:target="_blank"} at [Kyungpook National University](https://eng.knu.ac.kr){:target="_blank"}. 
-
+We are a research group in [School of Electronics Engineering](https://see.knu.ac.kr/eng/){:target="_blank"} at [Kyungpook National University](https://eng.knu.ac.kr/eng){:target="_blank"}. 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
