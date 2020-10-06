@@ -47,5 +47,5 @@ We thank to our superb collaborators: BioComputing Lab at GIST, Frohlich Lab at 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 110px">
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GIST.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNC.jpg" style="width: 220px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNC.jpg" style="width: 200px">
 </figure>
