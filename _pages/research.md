@@ -17,7 +17,7 @@ fields of the neuroscience and artificial intelligence (AI), it is crucial to in
 
 Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio.
 
-![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 300px; float: left; border: 10px"}
 
 - Neurophysiological Signal Processing
 
