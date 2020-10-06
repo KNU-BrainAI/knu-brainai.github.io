@@ -9,10 +9,10 @@ permalink: /teaching/
 
 # Teaching
 
-## Fall 2020
+### Fall 2020
 - C Programming <br />
 - Seminar on Basic Electronics Engineering
 
-## Spring 2020
+### Spring 2020
 - Java Programming <br />
 - Computational Intelligence
