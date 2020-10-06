@@ -19,6 +19,7 @@ Natural Language Processing (NLP) uses algorithms to understand and manipulate h
 
 ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 300px; float: left; border: 10px"}
 
+
 - Neurophysiological Signal Processing
 
 
