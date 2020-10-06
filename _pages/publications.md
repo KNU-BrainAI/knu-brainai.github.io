@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+see also [google scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
+
 ## Journals
 
 {% for publi in site.data.publist %}
