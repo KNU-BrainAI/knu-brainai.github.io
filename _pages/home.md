@@ -40,9 +40,11 @@ We investigate artificial intelligence (AI) to understand the Brain. In particul
 
 
 We are grateful for funding from Kyungpook National University (KNU), National Reserach Foundation of Korea (NRF), and National Institutes of Health (NIH).
+We thank to our superb collaborators: BioComputing Lab at GIST, Frohlich Lab at UNC-ChapelHill.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GIST.jpg" style="width: 110px">
 </figure>
