@@ -23,3 +23,11 @@ jump to [Conferences](#Conferences)
 {% endfor %}
 
 ## Conferences
+
+{% for publi in site.data.conflist %}
+
+  {{ publi.title }} <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
