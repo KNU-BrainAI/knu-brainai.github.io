@@ -10,7 +10,7 @@ permalink: /publications/
 # Publications
 
 see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
-jump to [Conferences](#Conferences)
+<br /> jump to [Conferences](#Conferences)
 
 ## Journals
 
