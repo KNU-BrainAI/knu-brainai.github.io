@@ -43,9 +43,9 @@ We are grateful for funding from Kyungpook National University (KNU), National R
 We thank to our superb collaborators: BioComputing Lab at GIST, Frohlich Lab at UNC-ChapelHill.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 110px">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GIST.jpg" style="width: 110px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNC.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.jpg" style="width: 90px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GIST.jpg" style="width: 90px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNC.jpg" style="width: 220px">
 </figure>
