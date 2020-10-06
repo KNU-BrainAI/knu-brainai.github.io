@@ -17,7 +17,10 @@ jump to [Conferences](#Conferences)
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  {{ publi.authors }} <br />
+  {{ publi.authors }} 
+  {% if publi.authors == Sangtae Ahn %}
+  **Sangtae Ahn**
+  {% endif %} <br />
   <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
