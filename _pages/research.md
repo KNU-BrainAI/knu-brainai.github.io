@@ -20,8 +20,11 @@ We belive that better understanding of the brain could play a vital role in buil
 
 - Neurophysiological Signal Processing
   Neurophysiological signals recorded from humans reflect 
+  
+  
+  
 
-- Natual Language Processing (NLP) ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 300px; float: left; border: 10px"}
+- Natual Language Processing (NLP) ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 400px; float: left"}
   NLP uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine & deep learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. 
 
 
