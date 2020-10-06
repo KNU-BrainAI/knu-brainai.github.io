@@ -8,13 +8,12 @@ permalink: /research/
 
 # Research
 
-We belive that better understanding of the brain could play a vital role in building intelligent machines. Since rapid progress has been made in the related
-fields of the neuroscience and artificial intelligence (AI), it is crucial to investigate the critical and ongoing importance of neuroscience in generating ideas that will accelerate and guide AI research. Thus, we seek to narrow the gap between neuroscience and AI by understanding both research fields. Our lab is interested in the follwing research areas but not limited.
+We belive that better understanding of the brain could play a vital role in building intelligent machines. Since rapid progress has been made in the related  ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 500px; float: right; border: 10px"} fields of the neuroscience and artificial intelligence (AI), it is crucial to investigate the critical and ongoing importance of neuroscience in generating ideas that will accelerate and guide AI research. Thus, we seek to narrow the gap between neuroscience and AI by understanding both research fields. Our lab is interested in the follwing research areas but not limited.
 
 - Neuroscience-inspired artificial intelligence
 
   Neuroscience provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence and can provide validation of   artificial intelligence techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system.
-  ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 300px; float: right; border: 10px"}
+ 
   
 - Neurophysiological Signal Processing
   Neurophysiological signals recorded from humans reflect 
