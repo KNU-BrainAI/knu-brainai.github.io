@@ -14,6 +14,7 @@ fields of the neuroscience and artificial intelligence (AI), it is crucial to in
 - Neuroscience-inspired artificial intelligence
 
   Neuroscience provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence and can provide validation of   artificial intelligence techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system.
+  ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 300px; float: right; border: 10px"}
   
 - Neurophysiological Signal Processing
   Neurophysiological signals recorded from humans reflect 
