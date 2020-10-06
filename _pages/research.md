@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-We belive that better understanding of the brain could play a vital role in building intelligent machines. Since rapid progress has been made in the related  ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 500px; float: right; top:30px; border: 10px"} fields of the neuroscience and artificial intelligence (AI), it is crucial to investigate the critical and ongoing importance of neuroscience in generating ideas that will accelerate and guide AI research. Thus, we seek to narrow the gap between neuroscience and AI by understanding both research fields. Our lab is interested in the follwing research areas but not limited.
+We belive that better understanding of the brain could play a vital role in building intelligent machines. Since rapid progress has been made in the related  ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 400px; float: right; border: 5px"} fields of the neuroscience and artificial intelligence (AI), it is crucial to investigate the critical and ongoing importance of neuroscience in generating ideas that will accelerate and guide AI research. Thus, we seek to narrow the gap between neuroscience and AI by understanding both research fields. Our lab is interested in the follwing research areas but not limited.
 
 - Neuroscience-inspired artificial intelligence
 
