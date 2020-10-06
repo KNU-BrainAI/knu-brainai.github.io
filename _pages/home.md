@@ -8,7 +8,7 @@ permalink: /
 
 We are a research group in [School of Electronics Engineering](https://see.knu.ac.kr/eng/){:target="_blank"} at [Kyungpook National University](https://eng.knu.ac.kr/eng){:target="_blank"}.
 
-We investigate artificial intelligence (AI) to understand the Brain. In particular, we develop novel machine & deep learning algorithms based on underlying mechanisms of brain functions and apply state-of-the-art machine & deep learning algorithms to neurophyiolsogical data recorded from the brain. We are also interested in understanding natural language and developing dianostic tools with medical images using deep learning models. (see our [Research](research)).
+We investigate artificial intelligence (AI) to understand the Brain. In particular, we develop novel machine & deep learning algorithms based on underlying mechanisms of brain functions and apply state-of-the-art machine & deep learning algorithms to neurophyiolsogical data recorded from the brain. We are also interested in understanding natural language and developing dianostic and treating tools with clinical data using deep learning models. (see our [Research](research)).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
