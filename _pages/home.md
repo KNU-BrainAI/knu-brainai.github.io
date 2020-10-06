@@ -24,7 +24,7 @@ We investigate artificial intelligence (AI) to understand the Brain. In particul
             <img src="{{ site.url }}{{ site.baseurl }}/images/LabLogo_v2.jpg" width="50%" class="center" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" width="50%" alt="Slide 2" />
         </div>     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
