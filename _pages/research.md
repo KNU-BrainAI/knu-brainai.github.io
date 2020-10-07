@@ -14,9 +14,11 @@ We belive that better understanding of the brain could play a vital role in buil
   
   Neuroscience provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence and can provide validation of   artificial intelligence techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system.
   
-- Natual Language Processing (NLP) 
+- Natual language processing (NLP) 
   
   NLP uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine & deep learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. 
+  
+ - Neurophysiological signal processing
 
 
 
