@@ -16,7 +16,7 @@ We belive that better understanding of the brain could play a vital role in buil
   
 ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 400px; float: left"}
 
-
+<br>
 - Natural language processing 
   
   Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models powering NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task-specific feature engineering. Thus we study state-of-the-art deep learning models and seek to develop novel deep learning models for NLP. 
