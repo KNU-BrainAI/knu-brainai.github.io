@@ -14,7 +14,10 @@ We belive that better understanding of the brain could play a vital role in buil
   
   The brain provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence and can provide validation of artificial intelligence techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system. As convolutional neural networks are inspired by the vision system in the brain, understanding brain functions is a key for developing novel deep learning models. Thus we study neuroscience to understand the brain and try to develop brain-like neural networks based on how the brain works.
   
+  
+ 
 ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 400px; float: left; border:100px"}
+
 
 - Natural language processing 
   
