@@ -13,7 +13,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 ## Conferences
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist_conf %}
 
   {{ publi.title }} <br />
   {{ publi.authors }} <br />
@@ -21,12 +21,3 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 {% endfor %}
 
-## Conferences
-
-{% for publi in site.data.conflist %}
-
-  {{ publi.title }} <br />
-  {{ publi.authors }} <br />
-  <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
