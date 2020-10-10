@@ -20,6 +20,8 @@ We belive that better understanding of the brain could play a vital role in buil
   
  - Neurophysiological signal processing
  
+   Neurophysiology is the study of the functional properties of neurons, glia, and networks. Electrophysiology refers to the electrical recording of neuronal events ranging from the molar (electroencephalogram, EEG) to the cellular (intracellular recording of the properties of single neurons) is one of the primary research areas in neurophysiology. 
+ 
    
 
 
