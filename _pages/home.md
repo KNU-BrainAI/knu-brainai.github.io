@@ -22,9 +22,9 @@ We investigate artificial intelligence (AI) to understand the Brain. In particul
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/LabLogo_v2.jpg" width="50%" class="center" alt="Slide 1" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/cnn.png" width="50%" class="center" alt="Slide 2" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/bert.jpg" width="50%" class="center" alt="Slide 3" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/eeg.png" width="50%" class="center" alt="Slide 4" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/cnn.jpg" width="50%" class="center" alt="Slide 2" />
         </div>
         
     </div>
