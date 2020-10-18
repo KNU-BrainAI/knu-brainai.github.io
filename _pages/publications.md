@@ -9,7 +9,8 @@ permalink: /publications/
 
 # Publications
 
-see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
+see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)Juㅓ
+Jump to [Conferences](#Conferences)
 
 ## Journals
 
