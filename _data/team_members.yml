@@ -1,10 +1,9 @@
 - name: Sangtae Ahn
   photo: stahn.jpg
-  info: Assistant Professor
+  info: Principal Investigator
   email: stahn@knu.ac.kr
-  number_educ: 2
-  education1: Postdoc at UNC Chapel Hill
-  education2: PhD at GIST
+  number_educ: 1
+  education1: Assistant Professor at KNU
   
 - name: Hyeon Su Kwon
   photo: hskwon.jpg
