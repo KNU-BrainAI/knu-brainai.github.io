@@ -9,9 +9,9 @@ permalink: /teaching/
 
 # Teaching
 ### Spring 2021
-- 
-- 
--
+- Introduction to Brain and Cognitive Engineering
+- Capstone Design Project 1
+- Seminar on Basic Electronics Engineering
 
 ### Fall 2020
 - C Programming <br />
