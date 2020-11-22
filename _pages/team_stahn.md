@@ -7,9 +7,18 @@ permalink: /team/team_stahn/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 400px; float: left"}
+Sangtae Ahn, PhD
+Director of Brain AI Lab
+IT2-245, School of Electronics Engineering
+Kyungpook National University
+Daehak-ro 80, Buk-gu, Daegu, South Korea
+E-mail: stahn@knu.ac.kr
+Phone: 053-950-5544
+
+
 
 ### Professional Experiences
-- March 2020 ~ present: Assistant Professor at Kyungpook National University
+After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD) 
 - October 2016 ~ Feburary 2020: Postdoctoral Research Associate at University of North Carolina at Chapel Hill (Advisor: Flavio Frohlich, PhD)
 - September 2016 ~ October 2016: Postdoctoral Research Associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
 
