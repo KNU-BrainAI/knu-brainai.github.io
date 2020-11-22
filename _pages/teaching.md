@@ -14,9 +14,9 @@ permalink: /teaching/
 - Seminar on Basic Electronics Engineering
 
 ### Fall 2020
-- C Programming (<a href="https://github.com/KNU-BrainAI/C_2020_Fall">github</a>)<br /> 
+- <a href="https://github.com/KNU-BrainAI/C_2020_Fall">C Programming</a><br /> 
 - Seminar on Basic Electronics Engineering
 
 ### Spring 2020
-- Java Programming (<a href="https://github.com/KNU-BrainAI/Java_2020_Spring">github</a>)<br />
+- <a href="https://github.com/KNU-BrainAI/Java_2020_Spring">Java Programming github</a><br />
 - Computational Intelligence
