@@ -19,11 +19,11 @@ Phone: 053-950-5544<br/>
 
 
 ### Professional Experiences
-After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD). He studied how social interaction 
+After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD). He studied how social interaction could play 
 
 
 ### Education
-He entered School of Electrical, Information and Communications at Chungnam National University in March, 2006. 
+Dr. Ahn entered School of Electrical, Information and Communications at Chungnam National University in March, 2006. During this time, he studied electrical engineering and computer science. 
 
 
 
