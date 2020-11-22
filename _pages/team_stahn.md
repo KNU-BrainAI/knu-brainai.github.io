@@ -18,14 +18,12 @@ Phone: 053-950-5544
 
 
 ### Professional Experiences
-After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD) 
-- October 2016 ~ Feburary 2020: Postdoctoral Research Associate at University of North Carolina at Chapel Hill (Advisor: Flavio Frohlich, PhD)
-- September 2016 ~ October 2016: Postdoctoral Research Associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
+After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD). He studied how social interaction 
+
 
 ### Education
-- August 2016, PhD at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
-- August 2012, MS at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
-- February 2010, BS at Chungnam National University
+He entered School of Electrical, Information and Communications at Chungnam National University in March, 2006. 
+
 
 
 
