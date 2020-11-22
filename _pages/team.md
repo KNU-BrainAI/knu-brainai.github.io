@@ -8,7 +8,7 @@ permalink: /team/
 
 # Team
 
-*If you're interested in joining our team, please email the PI, Sangtae Ahn (<stahn@knu.ac.kr>)
+- If you're interested in joining our team, please email the PI, Sangtae Ahn (<stahn@knu.ac.kr>)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
