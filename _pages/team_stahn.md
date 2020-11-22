@@ -7,13 +7,13 @@ permalink: /team/team_stahn/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 400px; float: left"}
-Sangtae Ahn, PhD
-Director of Brain AI Lab
-IT2-245, School of Electronics Engineering
-Kyungpook National University
-Daehak-ro 80, Buk-gu, Daegu, South Korea
-E-mail: stahn@knu.ac.kr
-Phone: 053-950-5544
+Sangtae Ahn, PhD <br/>
+Director of Brain AI Lab <br/>
+IT2-245, School of Electronics Engineering<br/>
+Kyungpook National University<br/>
+Daehak-ro 80, Buk-gu, Daegu, South Korea<br/>
+E-mail: stahn@knu.ac.kr<br/>
+Phone: 053-950-5544<br/>
 
 
 
