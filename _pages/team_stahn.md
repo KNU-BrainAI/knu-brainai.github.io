@@ -1,9 +1,9 @@
 ---
-title: "Brain AI Lab - Team"
+title: "Brain AI Lab - Team - Sangtae Ahn"
 layout: textlay
 excerpt: "Brain AI Lab -- Team"
 sitemap: false
-permalink: /stahn/
+permalink: /team_stahn/
 ---
 
 # Research
