@@ -6,8 +6,8 @@ sitemap: false
 permalink: /team/team_stahn/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 400px; float: left"}
-
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 200px; float: left"}
+<br/>
 Sangtae Ahn, PhD <br/>
 Director of Brain AI Lab <br/>
 IT2-245, School of Electronics Engineering<br/>
