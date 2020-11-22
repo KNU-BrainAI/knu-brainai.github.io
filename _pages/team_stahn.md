@@ -6,6 +6,7 @@ sitemap: false
 permalink: /team/team_stahn/
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 400px; float: left"}
 
 ### Professional Experiences
 - March 2020 ~ present: Assistant Professor at Kyungpook National University
