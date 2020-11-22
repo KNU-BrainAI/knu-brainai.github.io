@@ -13,8 +13,8 @@ permalink: /team/team_stahn/
 - September 2016 ~ October 2016: Postdoctoral Research Associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
 
 ### Education
-- August 2016, PhD at Gwangju Institue of Science and Technology
-- August 2012, MS at Gwangju Institue of Science and Technology
+- August 2016, PhD at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
+- August 2012, MS at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD)
 - February 2010, BS at Chungnam National University
 
 
