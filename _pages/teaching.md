@@ -9,13 +9,13 @@ permalink: /teaching/
 
 # Teaching
 ### Spring 2021
-- Introduction to Brain and Cognitive Engineering
 - Capstone Design Project 1
-- Seminar on Basic Electronics Engineering
+- Introduction to Brain and Cognitive Engineering
+- Seminar on Basic Electronics Engineering (Software perspective)
 
 ### Fall 2020
 - <a href="https://github.com/KNU-BrainAI/C_2020_Fall">C Programming</a><br /> 
-- Seminar on Basic Electronics Engineering
+- Seminar on Basic Electronics Engineering (Software perspective)
 
 ### Spring 2020
 - <a href="https://github.com/KNU-BrainAI/Java_2020_Spring">Java Programming</a><br />
