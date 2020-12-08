@@ -4,6 +4,20 @@
   email: stahn@knu.ac.kr
   number_educ: 1
   education1: Assistant Professor
+
+- name: Eun Chan Lee
+  photo: eclee.jpg
+  info: Research Assistant
+  email: eunchan789@gmail.com
+  number_educ: 1
+  education1: Undergraduate
+
+- name: Hyun Jin Jang
+  photo: hjjang.jpg
+  info: Research Assistant
+  email: janghj479@gmail.com
+  number_educ: 1
+  education1: Undergraduate
   
 - name: Hyeon Su Kwon
   photo: hskwon.jpg
@@ -23,23 +37,8 @@
 
 - name: Young Hoon Park
   photo: yhpark.jpg
-  info: Research Assistant
+  info: 
   email: dudgns0808@gmail.com
   number_educ: 1
   education1: Undergraduate
 
-  
-- name: Eun Chan Lee
-  photo: eclee.jpg
-  info: Research Assistant
-  email: eunchan789@gmail.com
-  number_educ: 1
-  education1: Undergraduate
-
-
-- name: Hyun Jin Jang
-  photo: hjjang.jpg
-  info: Research Assistant
-  email: janghj479@gmail.com
-  number_educ: 1
-  education1: Undergraduate
