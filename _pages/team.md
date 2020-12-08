@@ -24,10 +24,10 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br>
   <i>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  
 
   {% if member.number_educ == 1 %}
-{{ member.education1 }}
+  {{ member.education1 }}
   {% endif %}
 
   {% if member.number_educ == 2 %}
@@ -56,7 +56,7 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
+ 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
