@@ -8,7 +8,7 @@ permalink: /team/
 
 # Team
 
-- If you're interested in joining our team, please email PI, Sangtae Ahn (<stahn@knu.ac.kr>)
+- If you're interested in joining our team, please email Sangtae Ahn (<stahn@knu.ac.kr>)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -73,11 +73,11 @@ permalink: /team/
 {% endif %}
 
 ## Alumni
-#### 학부연구생   
-권현수 (전자공학부)   
-박영훈 (전자공학부)   
-권현지 (전자공학부)   
-이은찬 (전자공학부)   
-장현진 (전자공학부)
+#### Undergraduate Research Assistants  
+Hyeon Su Kwon (School of Electronics Engineering)   
+Young Hoon Park (School of Electronics Engineering)   
+Hyun Ji Gwon (School of Electronics Engineering)   
+Eun Chan Lee (School of Electronics Engineering)   
+Hyun Jin Jang (School of Electronics Engineering)
 
 
