@@ -74,10 +74,6 @@ permalink: /team/
 
 ## Alumni
 #### Undergraduate Research Assistants  
-Hyeon Su Kwon (School of Electronics Engineering)   
-Young Hoon Park (School of Electronics Engineering)   
-Hyun Ji Gwon (School of Electronics Engineering)   
-Eun Chan Lee (School of Electronics Engineering)   
-Hyun Jin Jang (School of Electronics Engineering)
+Hyeon Su Kwon, Young Hoon Park, Hyun Ji Gwon, Eun Chan Lee, Hyun Jin Jang
 
 
