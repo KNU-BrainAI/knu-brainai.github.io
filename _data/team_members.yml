@@ -7,11 +7,18 @@
 
 - name: Eun Chan Lee
   photo: eclee.jpg
-  info: Research Assistant
-  email: eunchan789@gmail.com
+  info: Master Candidate
+  email: purang2@knu.ac.kr
   number_educ: 1
-  education1: Undergraduate
+  education1: B.S. School of Electronics Engineering, KNU
 
+- name: Ye Rim Kim
+  photo: yrkim.jpg
+  info: Master Candidate
+  email: judy4251@knu.ac.kr
+  number_educ: 1
+  education1: B.S. School of Electronics Engineering, KNU
+  
 - name: Hyun Jin Jang
   photo: hjjang.jpg
   info: Research Assistant
@@ -19,26 +26,11 @@
   number_educ: 1
   education1: Undergraduate
   
-- name: Hyeon Su Kwon
-  photo: hskwon.jpg
+- name: Si Eun Park
+  photo: 
   info: Research Assistant
-  email: hk3305@gmail.com
-  number_educ: 1
-  education1: Undergraduate
-  
-
-- name: Hyeon Ji Gwon
-  photo: hjkwon.jpg
-  info: Research Assistant
-  email: khj0523527@gmail.com
+  email: ssissi2103@naver.com
   number_educ: 1
   education1: Undergraduate
 
-
-- name: Young Hoon Park
-  photo: yhpark.jpg
-  info: Research Assistant
-  email: dudgns0808@gmail.com
-  number_educ: 1
-  education1: Undergraduate
 
