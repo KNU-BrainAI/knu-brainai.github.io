@@ -9,7 +9,7 @@ permalink: /teaching/
 
 # Teaching
 ### Spring 2021
-- Capstone Design Project 1
+- Electronics Engineering Design Team Project 1
 - Introduction to Brain and Cognitive Engineering
 - Seminar on Basic Electronics Engineering (Software perspective)
 
