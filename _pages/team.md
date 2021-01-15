@@ -31,13 +31,13 @@ permalink: /team/
   {% endif %}
   
   {% if member.number_educ == 2 %}
-  {{ member.education1 }}
+  {{ member.education1 }}<br>
   {{ member.education2 }}
   {% endif %}
   
   {% if member.number_educ == 3 %}
-  {{ member.education1 }}
-  {{ member.education2 }}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
   {{ member.education3 }}
   {% endif %}
   
