@@ -28,6 +28,11 @@ permalink: /team/
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
   {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  {{ member.education1 }}
+  {{ member.education2 }}
+  {% endif %}
 <br>
 </div>
 
