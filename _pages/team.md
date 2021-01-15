@@ -10,7 +10,7 @@ permalink: /team/
 
 - If you're interested in joining our team, please email Sangtae Ahn (<stahn@knu.ac.kr>)
 
-{% assign number_printed = 2 %}
+{% assign number_printed = 0 %}
 
 {% for member in site.data.team_members %}
 
