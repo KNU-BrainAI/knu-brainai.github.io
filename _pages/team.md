@@ -22,7 +22,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br>
+  <h5>{{ member.info }}<br></h5>
   <i>email: <{{ member.email }}></i>
   
   {% if member.number_educ == 1 %}
