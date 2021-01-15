@@ -1,5 +1,5 @@
 ---
-title: "BrainAI Lab - Teaching"
+title: "Brain AI Lab - Teaching"
 layout: textlay
 excerpt: "BrainAI Lab -- Teaching."
 sitemap: false
