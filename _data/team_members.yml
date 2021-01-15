@@ -9,19 +9,17 @@
   photo: eclee.jpg
   info: M.S. Student
   email: purang2@knu.ac.kr
-  number_educ: 3
-  education1: Bachelor's Degree
-  education2: School of Electronics Engineering
-  education3: Kyungpook National University
+  number_educ: 2
+  education1: B.S., School of Electronics Engineering
+  education2: Kyungpook National University
 
 - name: Ye Rim Kim
   photo: yrkim.jpg
   info: M.S. Student
   email: judy4251@knu.ac.kr
-  number_educ: 3
-  education1: Bachelor's Degree
-  education2: School of Electronics Engineering
-  education3: Kyungpook National University
+  number_educ: 2
+  education1: B.S., School of Electronics Engineering
+  education2: Kyungpook National University
   
 - name: Hyun Jin Jang
   photo: hjjang.jpg
