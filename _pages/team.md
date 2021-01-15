@@ -39,6 +39,7 @@ permalink: /team/
   {{ member.education2 }}
   {{ member.education3 }}
   {% endif %}
+  
 <br>
 </div>
 
