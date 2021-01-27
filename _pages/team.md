@@ -58,7 +58,7 @@ permalink: /team/
 {% endif %}
 
 ## Alumni
-#### Undergraduate Research Assistants  
-Hyeon Su Kwon, Young Hoon Park, Hyun Ji Gwon, Eun Chan Lee
+#### Undergraduate Researchers   
+(Fall, 2020) Hyeon Su Kwon, Young Hoon Park, Hyun Ji Gwon, Eun Chan Lee
 
 
