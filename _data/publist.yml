@@ -9,19 +9,7 @@
   highlight: 0
   news1:
   news2:
-
-- title: "Transcranial Alternating Current Stimulation (tACS) Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
-  image: 
-  description: 
-  authors: Wei Huang, Iain Stitt, Ehsan Negahbani, D.J. Passey, Sangtae Ahn, Marshall Davey, Moritz Dannhauer, Thien Doan, Anna Hoover, Angel Peterchev, Susanne Radtke-Schuller, Flavio Fröhlich
-  journal: in revision (2021)
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
+  
 - title: "Transcranial alternating current stimulation reduces network hyper-synchrony and persistent vertigo"
   image: 
   description: 
@@ -30,6 +18,18 @@
   link:
     url: 
     display:
+  highlight: 0
+  news1:
+  news2:
+
+- title: "Transcranial Alternating Current Stimulation (tACS) Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
+  image: 
+  description: 
+  authors: Wei Huang, Iain Stitt, Ehsan Negahbani, D.J. Passey, Sangtae Ahn, Marshall Davey, Moritz Dannhauer, Thien Doan, Anna Hoover, Angel Peterchev, Susanne Radtke-Schuller, Flavio Fröhlich
+  journal: Nature Communications (2021)
+  link:
+    url: 
+    display: 
   highlight: 0
   news1:
   news2:
