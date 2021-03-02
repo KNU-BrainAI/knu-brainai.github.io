@@ -10,8 +10,8 @@ We are a research group in [School of Electronics Engineering](https://see.knu.a
 
 We investigate artificial intelligence (AI) to understand the Brain. In particular, we develop novel machine & deep learning algorithms based on underlying mechanisms of brain functions and apply state-of-the-art machine & deep learning models to neurophyiolsogical data recorded from the brain. We are also interested in understanding natural language and developing dianostic and treating tools with clinical data using various artificial intelligence techniques. (see our [Research](research)).
 
-We have a lab [GitHub](https://github.com/KNU-BrainAI) page to share our lab stuff including lab website, codes, research projects, and etc.
-Please visit our lab [GitHub](https://github.com/KNU-BrainAI) to get more information. 
+We have a lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} page to share our lab stuff including lab website, codes, research projects, and etc.
+Please visit our lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} to get more information. 
 
 We are grateful for funding from Kyungpook National University (KNU), National Reserach Foundation of Korea (NRF), and National Institutes of Health (NIH).
 We thank to our superb collaborators: BioComputing Lab at GIST, Frohlich Lab at UNC-ChapelHill.
