@@ -10,18 +10,6 @@
   news1:
   news2:
   
-- title: "Transcranial alternating current stimulation reduces network hyper-synchrony and persistent vertigo"
-  image: 
-  description: 
-  authors: Sangtae Ahn, Diamond Gleghorn, Benjamin C Doudican, Flavio Fröhlich, Yoon-Hee Cha
-  journal: Neuromodulation (2021)
-  link:
-    url: 
-    display:
-  highlight: 0
-  news1:
-  news2:
-
 - title: "Transcranial Alternating Current Stimulation (tACS) Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
   image: 
   description: 
@@ -30,6 +18,18 @@
   link:
     url: 
     display: 
+  highlight: 0
+  news1:
+  news2:
+  
+- title: "Transcranial Alternating Current Stimulation Reduces Network Hypersynchrony and Persistent Vertigo"
+  image: 
+  description: 
+  authors: Sangtae Ahn, Diamond Gleghorn, Benjamin C Doudican, Flavio Fröhlich, Yoon-Hee Cha
+  journal: Neuromodulation (2021)
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/ner.13389
+    display: link
   highlight: 0
   news1:
   news2:
