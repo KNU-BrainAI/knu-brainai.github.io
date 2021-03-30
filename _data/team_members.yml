@@ -5,7 +5,7 @@
   number_educ: 1
   education1: 
 
-- name: Eun Chan Lee
+- name: Eun Chan Lee (이은찬)
   photo: eclee.jpg
   info: M.S. Student
   email: purang2@knu.ac.kr
@@ -13,7 +13,7 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
 
-- name: Ye Rim Kim
+- name: Ye Rim Kim (김예림)
   photo: yrkim.jpg
   info: M.S. Student
   email: judy4251@knu.ac.kr
@@ -21,21 +21,21 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
   
-- name: Hyeon Jin Jang
+- name: Hyeon Jin Jang (장현진)
   photo: hjjang.jpg
   info: Undergraduate Researcher
   email: nowwhy@knu.ac.kr
   number_educ: 1
   education1:
   
-- name: Si Eun Park
+- name: Si Eun Park (박시은)
   photo: blank.png
   info: Undergraduate Researcher
   email: ssissi@knu.ac.kr
   number_educ: 1
   education1:
  
-- name: Hyeon Su Kwon
+- name: Hyeon Su Kwon (권현수)
   photo: hskwon.jpg
   info: Undergraduate Researcher
   email: gustngusrud1@naver.com
