@@ -59,6 +59,4 @@ permalink: /team/
 
 ## Alumni
 #### Undergraduate Researchers   
-(Fall, 2020) Hyeon Su Kwon, Young Hoon Park, Hyun Ji Gwon, Eun Chan Lee, Hyeon Jin Jang
-
-
+(Fall, 2020) 권현수, 권현지, 박영훈, 이은찬, 장현진
