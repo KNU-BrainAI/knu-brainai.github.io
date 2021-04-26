@@ -8,6 +8,9 @@ permalink: /teaching/
 
 
 # Teaching
+### Fall 2021
+- [Electronics Engineering Design Team Project 2](https://github.com/KNU-BrainAI-Capstone2021)
+- Seminar on Basic Electronics Engineering (Software perspective)
 ### Spring 2021
 - [Electronics Engineering Design Team Project 1](https://github.com/KNU-BrainAI-Capstone2021)
 - Introduction to Brain and Cognitive Engineering
