@@ -58,5 +58,6 @@ permalink: /team/
 {% endif %}
 
 ## Alumni
-#### Undergraduate Researchers   
+#### Undergraduate Researchers  
+(Spring, 2021) 
 (Fall, 2020) 권현수, 권현지, 박영훈, 이은찬, 장현진
