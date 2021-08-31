@@ -59,5 +59,5 @@ permalink: /team/
 
 ## Alumni
 #### Undergraduate Researchers  
-(Spring, 2021) 박시은 
+(Spring, 2021) 박시은 <br>
 (Fall, 2020) 권현수, 권현지, 박영훈, 이은찬, 장현진
