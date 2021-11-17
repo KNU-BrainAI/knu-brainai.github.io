@@ -10,7 +10,7 @@ permalink: /teaching/
 # Teaching
 ### Spring 2022
 - [Electronics Engineering Design Team Project 1](https://github.com/KNU-BrainAI-Capstone2022)
-- Python Programming
+- [Python Programming](https://github.com/KNU-BrainAI/Python_2022_Spring)
 
 ### Fall 2021
 - [Electronics Engineering Design Team Project 2](https://github.com/KNU-BrainAI-Capstone2021)
