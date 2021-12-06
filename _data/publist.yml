@@ -1,3 +1,7 @@
+- title: "TSANet: A Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
+  authors: Jae Seong Park, Sung Chan Jun, Sangtae Ahn
+  journal: in preparation
+
 - title: "Investigating Morphological Analyzers for Topic Categorization in News Articles"
   authors: Yerim Kim, Hyeonjin Jang, Sangtae Ahn
   journal: under review
@@ -5,10 +9,6 @@
 - title: "Classfiying Climate Technology in Research Proposals using Pretrained Language Models"
   authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
   journal: under review
-
-- title: "TSANet: A Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
-  authors: Jae Seong Park, Sung Chan Jun, Sangtae Ahn
-  journal: in preparation
 
 - title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
   image: 
