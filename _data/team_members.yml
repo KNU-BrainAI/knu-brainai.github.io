@@ -27,7 +27,28 @@
   email: nowwhy@knu.ac.kr
   number_educ: 1
   education1:
+  
+- name: Seung Hun Lee (이승훈)
+  photo: shlee.jpg
+  info: Undergraduate Researcher
+  email: sam56903@naver.com
+  number_educ: 1
+  education1:
+  
+- name: Do Heun Cha (차도흔)
+  photo: DHCha.jpg
+  info: Undergraduate Researcher
+  email: chadoheun@knu.ac.kr
+  number_educ: 1
+  education1:
  
+- name: Jae Seong Park (박재성)
+  photo: jspark.jpg
+  info: Undergraduate Researcher
+  email: wotjd0715@gmail.com
+  number_educ: 1
+  education1:
+
 - name: Changhyeon Lee (이창현)
   photo: chlee.jpg.png
   info: Undergraduate Researcher
@@ -36,24 +57,8 @@
   education1:
 
   
-- name: Jae Seong Park (박재성)
-  photo: jspark.jpg
-  info: Undergraduate Researcher
-  email: wotjd0715@gmail.com
-  number_educ: 1
-  education1:
 
 
-- name: Seung Hun Lee (이승훈)
-  photo: shlee.jpg
-  info: Undergraduate Researcher
-  email: sam56903@naver.com
-  number_educ: 1
-  education1:
 
-- name: Do Heun Cha (차도흔)
-  photo: DHCha.jpg
-  info: Undergraduate Researcher
-  email: chadoheun@knu.ac.kr
-  number_educ: 1
-  education1:
+
+
