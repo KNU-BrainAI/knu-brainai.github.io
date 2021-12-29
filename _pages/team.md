@@ -63,4 +63,4 @@ permalink: /team/
 2022.02 장현진 KNU Graduate School<br>
 2021.12 이창현 UNIST Graduate School<br>
 2021.02 이은찬 KNU Graduate School<br>
-2020.12 권현수 박영훈 권현지
+2020.12 권현수, 박영훈, 권현지
