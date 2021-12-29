@@ -59,6 +59,7 @@ permalink: /team/
 
 ## Alumni
 #### Undergraduate Researchers  
+2021.03~2022.01 / 박재성 / KAIST Graduate School <br>
 2021.09~2022.02 / 이승훈 / KNU Graduate School <br>
 2020.09~2022.02 / 장현진 / KNU Graduate School <br>
 2021.03~2021.12 / 이창현 / UNIST AI Graduate School<br>
