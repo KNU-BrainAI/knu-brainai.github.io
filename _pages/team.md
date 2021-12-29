@@ -59,9 +59,10 @@ permalink: /team/
 
 ## Alumni
 #### Undergraduate Researchers  
-2021.03-2021.12 이창현 UNIST AI Graduate School<br>
-2020.09-2022.02 장현진 KNU Graduate School <br>
-이은찬 2020.09-2021.02<br>
-권현수 2020.09-2021.06<br>
-박영훈 2020.09-2020.12<br>
-권현지 2020.09-2020.12
+2021.03~2021.12 / 박재성 / KAIST Graduate School<br>
+2021.03~2021.12 / 이창현 / UNIST AI Graduate School<br>
+2020.09~2022.02 / 장현진 / KNU Graduate School <br>
+2020.09~2021.02 / 이은찬 / KNU Graduate School <br>
+2020.09-2021.06 / 권현수 <br>
+2020.09-2020.12 / 박영훈 <br>
+2020.09-2020.12 / 권현지 
