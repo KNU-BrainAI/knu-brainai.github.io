@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Brain AI Lab - News"
 layout: textlay
 excerpt: "Brain AI Lab"
 sitemap: false
