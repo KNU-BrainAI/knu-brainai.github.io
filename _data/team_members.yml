@@ -23,17 +23,19 @@
   
 - name: Hyeonjin Jang (장현진)
   photo: hjjang.jpg
-  info: Undergraduate Researcher
+  info: M.S. Student
   email: nowwhy@knu.ac.kr
-  number_educ: 1
-  education1:
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
   
 - name: Seung Hun Lee (이승훈)
   photo: shlee.jpg
-  info: Undergraduate Researcher
-  email: sam56903@naver.com
-  number_educ: 1
-  education1:
+  info: M.S. Student
+  email: sam56903@knu.ac.kr
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
   
 - name: Do Heun Cha (차도흔)
   photo: DHCha.jpg
