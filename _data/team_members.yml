@@ -29,7 +29,7 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
   
-- name: Seung Hun Lee (이승훈)
+- name: Seunghun Lee (이승훈)
   photo: shlee.jpg
   info: M.S. Student
   email: sam56903@knu.ac.kr
@@ -37,21 +37,21 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
   
-- name: Jae Seong Park (박재성)
+- name: Jaeseong Park (박재성)
   photo: jspark.jpg
   info: Undergraduate Researcher
   email: wotjd0715@gmail.com
   number_educ: 1
   education1:
 
-- name: Do Heun Cha (차도흔)
+- name: Doheun Cha (차도흔)
   photo: DHCha.jpg
   info: Undergraduate Researcher
   email: chadoheun@knu.ac.kr
   number_educ: 1
   education1:
  
-- name: Do Heun Cha (차도흔)
+- name: Temp
   photo: DHCha.jpg
   info: Undergraduate Researcher
   email: chadoheun@knu.ac.kr
