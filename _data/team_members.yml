@@ -51,10 +51,16 @@
   number_educ: 1
   education1:
  
-- name: Temp
-  photo: DHCha.jpg
+- name: Jihoon Lee
+  photo: blank.png
   info: Undergraduate Researcher
-  email: chadoheun@knu.ac.kr
+  email: leejh98123@knu.ac.kr
   number_educ: 1
   education1:
  
+ - name: Bookwang Choi
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: cbgbg0727@knu.ac.kr
+  number_educ: 1
+  education1:
