@@ -9,9 +9,11 @@
   photo: eclee.jpg
   info: M.S. Student
   email: purang2@knu.ac.kr
-  number_educ: 2
+  number_educ: 3
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
+  education3: Natural Language Processing 
+  
 
 - name: Yerim Kim (김예림)
   photo: yrkim.jpg
