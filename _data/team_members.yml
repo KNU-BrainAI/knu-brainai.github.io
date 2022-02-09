@@ -9,10 +9,9 @@
   photo: eclee.jpg
   info: M.S. Student
   email: purang2@knu.ac.kr
-  number_educ: 3
+  number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
-  education3: Natural Language Processing 
   
 
 - name: Yerim Kim (김예림)
@@ -44,7 +43,7 @@
   info: Undergraduate Researcher
   email: wotjd0715@gmail.com
   number_educ: 1
-  education1: Research Interest - Electronic Circuit 2
+  education1:
 
 - name: Doheun Cha (차도흔)
   photo: DHCha.jpg
