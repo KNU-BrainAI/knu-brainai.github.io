@@ -30,6 +30,8 @@ permalink: /team/
   {{ member.education1 }}
   {% endif %}
   
+  <h5>{{ member.interest }}</h5>
+  
   {% if member.number_educ == 2 %}
   {{ member.education1 }}<br>
   {{ member.education2 }}
