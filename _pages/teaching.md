@@ -10,7 +10,7 @@ permalink: /teaching/
 # Teaching
 ### Spring 2022
 - [Electronics Engineering Design Team Project 1](https://github.com/KNU-BrainAI-Capstone2022)
-- [Python Programming](https://github.com/KNU-BrainAI/Python_2022_Spring)
+- Python Programming
 - Brain Signal Processing
 
 ### Fall 2021
@@ -23,9 +23,9 @@ permalink: /teaching/
 - Seminar on Basic Electronics Engineering (Software perspective)
 
 ### Fall 2020
-- [C Prgramming](https://github.com/KNU-BrainAI/C_2020_Fall)
+- C Prgramming
 - Seminar on Basic Electronics Engineering (Software perspective)
 
 ### Spring 2020
-- [Java Programming](https://github.com/KNU-BrainAI/Java_2020_Spring)
+- Java Programming
 - Computational Intelligence
