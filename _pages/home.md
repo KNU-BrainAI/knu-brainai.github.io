@@ -13,14 +13,3 @@ We investigate artificial intelligence (AI) to understand the Brain. In particul
 
 We have a lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} page to share our lab stuff including lab website, code, research projects, and etc.
 Please visit our lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} to get more information. 
-
-We are grateful for funding from Kyungpook National University (KNU) and National Reserach Foundation of Korea (NRF).
-We thank to our superb collaborators: BioComputing Lab at GIST, Frohlich Lab at UNC-ChapelHill.
-<br/>
-<br/>
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GIST.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UNC.jpg" style="width: 90px">
-</figure>
