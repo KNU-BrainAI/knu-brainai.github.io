@@ -2,10 +2,6 @@
   authors: Jae Seong Park, Sung Chan Jun, Sangtae Ahn
   journal: under review
 
-- title: "Classfiying Climate Technology in Research Proposals using Pretrained Language Models"
-  authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
-  journal: under review
-
 - title: "Exploring Morphological Analyzers for Topic Categorization in News Articles"
   authors: Yerim Kim, Hyeonjin Jang, Sangtae Ahn
   journal: under review
@@ -14,19 +10,20 @@
   image: 
   description: 
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
-  journal: Expert Systems with Applications, in revision.
-  link:
-    url: 
-    display:
-  highlight: 0
-  news1:
-  news2:
+  journal: under review
 
+- title: "Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models"
+  authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
+  journal: Applied Sciences (2022)
+  link:
+    url: https://www.mdpi.com/2076-3417/12/9/4522
+    display: link
+  
 - title: "Differing dose details and controlling confounding covariates in modulating motor cortex excitability by transcranial direct current stimulation"
   image: 
   description: 
   authors: Flavio Frohlich, Sangtae Ahn
-  journal: Brain Stimulation(2021)
+  journal: Brain Stimulation (2021)
   link:
     url: https://www.brainstimjrnl.com/article/S1935-861X(21)00115-7/fulltext
     display: link
