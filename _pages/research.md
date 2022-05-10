@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-We belive that better understanding of the brain could play a vital role in building intelligent machines. Since rapid progress has been made in the related fields of the neuroscience and artificial intelligence (AI), it is crucial to investigate the critical and ongoing importance of neuroscience in generating ideas that will accelerate and guide AI research. Thus, we seek to narrow the gap between neuroscience and AI by understanding both research fields. Our lab is interested in the follwing research areas but not limited.
+We believe that better understanding of the brain plays a vital role in developing intelligent systems. Since rapid progress has been made in the artificial intelligence (AI) field, it is crucial to investigate the importance of the brain to generate ideas that will accelerate and guide AI research. Thus, we seek to develop novel AI algorithms and systems inspired by the brain functions. Our lab is interested in the follwing research areas but not limited.
 
 - Natural Language Processing ![]({{ site.url }}{{ site.baseurl }}/images/bert.jpg){: style="width: 400px; float: right"} 
   
