@@ -12,7 +12,8 @@ We believe that better understanding of the brain plays a vital role in developi
 
 - Natural Language Processing ![]({{ site.url }}{{ site.baseurl }}/images/nlp.jpg){: style="width: 400px; float: right"} 
   
-  Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. Recently, deep learning approaches have obtained very high performance across many different NLP tasks and these models can often be trained with a single end-to-end model We study state-of-the-art deep learning models and seek to develop novel natural language deep learning models. 
+  Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. Recently, deep learning approaches have obtained very high performance across many different NLP tasks and these models can often be trained with a single end-to-end model We study state-of-the-art deep learning models and seek to develop novel natural language deep learning models.
+  
   
 - Computer Vision ![]({{ site.url }}{{ site.baseurl }}/images/cv.jpg){: style="width: 400px; float: right"} 
   
