@@ -10,7 +10,7 @@ permalink: /research/
 
 We believe that better understanding of the brain plays a vital role in developing intelligent systems. Since rapid progress has been made in the artificial intelligence (AI) field, it is crucial to investigate the importance of the brain to generate ideas that will accelerate and guide AI research. Thus, we seek to develop novel AI algorithms and systems inspired by the brain functions. Our lab is interested in the follwing research areas but not limited.
 
-- Natural Language Processing ![]({{ site.url }}{{ site.baseurl }}/images/lamda.jpg){: style="width: 400px; float: right"} 
+- Natural Language Processing ![]({{ site.url }}{{ site.baseurl }}/images/nlp.jpg){: style="width: 400px; float: right"} 
   
   Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models powering NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task-specific feature engineering. For these reasons, devloping novel techniques using deel learning to understand complex natural language has become widespread and gained attention for computer scientists. We study state-of-the-art deep learning models and seek to develop novel natural language deep learning models. 
   
