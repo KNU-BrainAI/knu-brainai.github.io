@@ -11,7 +11,7 @@ permalink: /publications/
 
 see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
 
-#### Journals
+### Journals
 
 {% for publi in site.data.publist %}
 
@@ -21,7 +21,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 {% endfor %}
 
-#### Conferences
+### Conferences
 
 {% for publi in site.data.publist_conf %}
 
@@ -31,7 +31,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 {% endfor %}
 
-#### Patents
+### Patents
 
 {% for publi in site.data.publist_patent %}
 
