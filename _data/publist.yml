@@ -4,17 +4,13 @@
 
 - title: "TSANet: Multi-Branch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   authors: Jae Seong Park, Sung Chan Jun, Sangtae Ahn
-  journal: under review
-
-- title: "Exploring Morphological Analyzers for Topic Categorization in News Articles"
-  authors: Yerim Kim, Hyeonjin Jang, Sangtae Ahn
-  journal: under review
+  journal: Expert Systems with Applications, under review
   
 - title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
   image: 
   description: 
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
-  journal: under review
+  journal: Expert Systems with Applications, in revision
 
 - title: "Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models"
   authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
