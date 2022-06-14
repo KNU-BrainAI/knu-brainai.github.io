@@ -63,6 +63,8 @@ permalink: /team/
 #### Undergraduate Researchers  
 2022.02 장현진 KNU Graduate School<br>
 2022.02 이승훈 KNU Graduate School<br>
+2021.02 박재성 KAIST Graduate School<br>
 2022.02 박재성 KAIST Graduate School<br>
 2021.12 이창현 UNIST Graduate School<br>
+2021.08 박시은 KNU Graduate School<br>
 2021.02 이은찬 KNU Graduate School<br>
