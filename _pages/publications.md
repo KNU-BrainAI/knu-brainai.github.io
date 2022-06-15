@@ -21,8 +21,6 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 {% endfor %}
 
-### Conferences
-
 {% for publi in site.data.publist_conf %}
 
   {{ publi.title }} <br />
