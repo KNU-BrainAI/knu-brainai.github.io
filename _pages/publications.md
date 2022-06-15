@@ -11,7 +11,7 @@ permalink: /publications/
 
 see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQwcAAAAJ&view_op=list_works&sortby=pubdate)
 
-### Journals
+### Journals & Conferences
 
 {% for publi in site.data.publist %}
 
