@@ -9,6 +9,11 @@ permalink: /teaching/
 
 # Teaching
 #### Spring 2022
+- [Electronics Engineering Design Team Project 2](https://github.com/KNU-BrainAI-Capstone2022)
+- C Programming
+- Software Engineering
+
+#### Spring 2022
 - [Electronics Engineering Design Team Project 1](https://github.com/KNU-BrainAI-Capstone2022)
 - Python Programming
 - Brain Signal Processing
