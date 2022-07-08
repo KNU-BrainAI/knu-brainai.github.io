@@ -8,9 +8,10 @@ permalink: /professor/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left"; margin-right: 100px}
 <br/>
-Sangtae Ahn, PhD <br/>
+Sangtae Ahn, PhD <br/><br/>
 Assistant Professor <br/>
 School of Electronics Engineering<br/>
+School of Electronic and Electrical Engineering<br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn (at) knu.ac.kr<br/>
