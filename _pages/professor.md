@@ -26,7 +26,8 @@ Phone: 053-950-5544<br/><br/>
 - 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience
 
 #### Invited Talks
-- 2022.06 '인공지능의 미래', 경상북도인재개발원 
+- 2022.06.28 'Treating Patients with Psychiatric Disorders by Entrainment of Neural Oscillations @ 한국뇌공학회
+- 2022.06.27 '인공지능의 미래' @ 경상북도인재개발원 
 
 #### Education & Career
 - 2020.03-present Assistant Professor, Kyungpook National University
