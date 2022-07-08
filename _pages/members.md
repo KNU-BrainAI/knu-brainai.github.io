@@ -1,7 +1,7 @@
 ---
 title: "Brain AI Lab - Members"
 layout: gridlay
-excerpt: "Brain AI Lab - Members"
+excerpt: "Brain AI Lab : Members"
 sitemap: false
 permalink: /members/
 ---
