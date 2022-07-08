@@ -1,5 +1,5 @@
 ---
-title: "Brain AI Lab - Team"
+title: "Brain AI Lab - Members"
 layout: gridlay
 excerpt: "BrainAI Lab: Team members"
 sitemap: false
