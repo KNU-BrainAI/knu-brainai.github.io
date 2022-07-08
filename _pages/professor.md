@@ -7,7 +7,7 @@ permalink: /professor/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left; margin:50px"}
-<br/>
+<br/><br/>
 Sangtae Ahn (안상태) <br/><br/>
 Assistant Professor <br/>
 School of Electronics Engineering<br/>
@@ -15,7 +15,7 @@ School of Electronic and Electrical Engineering<br/>
 Kyungpook National University, Daegu, South Korea<br/>
 E-mail: stahn (at) knu.ac.kr<br/>
 Phone: 053-950-5544<br/><br/>
-<br/>
+<br/><br/><br/>
 
 #### Professional Service
 - 2022.06-present: Associate Editor, Journal of Applied Science and Engineering
