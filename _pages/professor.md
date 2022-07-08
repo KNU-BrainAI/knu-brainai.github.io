@@ -6,7 +6,7 @@ sitemap: false
 permalink: /professor/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left"; margin-right: 10px}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left"}
 <br/>
 Sangtae Ahn, PhD <br/><br/>
 Assistant Professor <br/>
