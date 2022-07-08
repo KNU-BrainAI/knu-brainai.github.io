@@ -66,6 +66,6 @@ permalink: /team/
 2022.02 박재성 KAIST Graduate School<br>
 2021.12 이창현 UNIST Graduate School<br>
 2021.08 박시은 KNU Graduate School<br>
-2021.06 권현수 LG Research <br>
+2021.06 권현수 LG Electronics <br>
 2021.02 이은찬 KNU Graduate School<br>
 2020.12 권현지 Korea Aerospace Industries<br>
