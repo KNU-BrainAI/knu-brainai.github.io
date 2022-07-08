@@ -1,9 +1,9 @@
 ---
 title: "Brain AI Lab - Members"
 layout: gridlay
-excerpt: "BrainAI Lab: Team members"
+excerpt: "Brain AI Lab - Members"
 sitemap: false
-permalink: /team/
+permalink: /members/
 ---
 
 # Members
