@@ -1,19 +1,19 @@
 ---
-title: "Brain AI Lab - Team - Sangtae Ahn"
+title: "Brain AI Lab - Professor"
 layout: textlay
-excerpt: "Brain AI Lab -- Team"
+excerpt: "Brain AI Lab - Professor"
 sitemap: false
-permalink: /team/team_stahn/
+permalink: /professor/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn2.jpg){: style="width: 200px; float: left"}
 <br/>
 Sangtae Ahn, PhD <br/>
-Director of Brain AI Lab <br/>
-IT2-245, School of Electronics Engineering<br/>
+Assistant Professor <br/>
+IT1-505, School of Electronics Engineering<br/>
 Kyungpook National University<br/>
-Daehak-ro 80, Buk-gu, Daegu, South Korea<br/>
-E-mail: stahn@knu.ac.kr<br/>
+Daegu, South Korea<br/>
+E-mail: stahn (at) knu.ac.kr<br/>
 Phone: 053-950-5544<br/>
 
 
