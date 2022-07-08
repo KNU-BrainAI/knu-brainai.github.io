@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Team
+# Members
 
 - If you're interested in joining our team, please email Sangtae Ahn (<stahn@knu.ac.kr>)
 
