@@ -10,9 +10,9 @@ permalink: /professor/
 <br/>
 Sangtae Ahn, PhD <br/>
 Assistant Professor <br/>
-IT1-505, School of Electronics Engineering<br/>
-Kyungpook National University<br/>
-Daegu, South Korea<br/>
+School of Electronics Engineering<br/>
+Kyungpook National University, Daegu, South Korea<br/>
+<br/>
 E-mail: stahn (at) knu.ac.kr<br/>
 Phone: 053-950-5544<br/><br/>
 
