@@ -19,13 +19,17 @@ Phone: 053-950-5544<br/>
 
 
 ### Professional Service
-- 2021.06 - present: Assocaite Editor, Journal of Applied Science and Engineering
-- 2018.09 - present: Review Editor, Frontiers in Robotics and AI
-- 2019.02 - present: Review Editor, Frontiers in Human Neuroscience
+- 2021.06-present: Assocaite Editor, Journal of Applied Science and Engineering
+- 2018.09-present: Review Editor, Frontiers in Robotics and AI
+- 2019.02-present: Review Editor, Frontiers in Human Neuroscience
 
-
-### Education
-Dr. Ahn entered School of Electrical, Information and Communications at Chungnam National University in March, 2006. During this time, he studied electrical engineering and computer science. 
+### Education & Career
+- 2020.03-present Assistant Professor, Kyungpook National University
+- 2016.10-2020.02 Postdoc, University of North Carolina at Chapel Hill
+- 2016.09-2016.10 Postdoc, Gwangju Institute of Science and Technology
+- 2012.09-2016.08 Ph.D., Gwangju Institute of Science and Technology
+- 2010.09-2012.08 M.S., Gwangju Institute of Science and Technology
+- 2006.03-2010.02 B.S., Chungnam National University
 
 
 
