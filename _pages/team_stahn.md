@@ -18,8 +18,10 @@ Phone: 053-950-5544<br/>
 
 
 
-### Professional Experiences
-After receiving his doctoral degree, he worked as a postdoctoral research associate at Gwangju Institue of Science and Technology (Advisor: Sung Chan Jun, PhD). He studied how social interaction could play 
+### Professional Service
+- 2021.06 - present: Assocaite Editor, Journal of Applied Science and Engineering
+- 2018.09 - present: Review Editor, Frontiers in Robotics and AI
+- 2019.02 - present: Review Editor, Frontiers in Human Neuroscience
 
 
 ### Education
