@@ -25,6 +25,9 @@ Phone: 053-950-5544<br/><br/>
 - 2019.02-present: Review Editor, Frontiers in Human Neuroscience
 - 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience
 
+#### Invited Talks
+- 2022.06 '인공지능의 미래', 경상북도인재개발원 
+
 #### Education & Career
 - 2020.03-present Assistant Professor, Kyungpook National University
 - 2016.10-2020.02 Postdoc, University of North Carolina at Chapel Hill
