@@ -23,7 +23,7 @@ Phone: 053-950-5544<br/><br/>
 - 2021.09-present: Program Committee Member, International Conference on Neural Information Processing
 - 2018.09-present: Review Editor, Frontiers in Robotics and AI
 - 2019.02-present: Review Editor, Frontiers in Human Neuroscience
-- 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience
+- 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience 
 
 #### Invited Talks
 - 2022.06.28 Treating Patients with Psychiatric Disorders by Entrainment of Neural Oscillations @ Brain Engineering Society of Korea
