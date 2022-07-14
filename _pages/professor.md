@@ -1,7 +1,7 @@
 ---
 title: "Brain AI Lab - Professor"
 layout: textlay
-excerpt: "Brain AI Lab - Professor"
+excerpt: "Brain AI Lab : Professor"
 sitemap: false
 permalink: /professor/
 ---
