@@ -26,12 +26,12 @@ Phone: 053-950-5544<br/><br/>
 - 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience
 
 #### Invited Talks
-- 2022.06.28 Treating Patients with Psychiatric Disorders by Entrainment of Neural Oscillations @ 한국뇌공학회
-- 2022.06.27 인공지능의 미래 @ 경상북도인재개발원 
+- 2022.06.28 Treating Patients with Psychiatric Disorders by Entrainment of Neural Oscillations @ Brain Engineering Society of Korea
+- 2022.06.27 The Future of Artificial Intelligence @ Gyeongbuk Officials Training Institute
 - 2022.11.11 Targeting Neural Oscillations by Transcranial Alternating Current Stimulation @ International Biomedical Engineering Conference 2021 
-- 2021.08.19 Transcranial Alternating Current Stimulation Entrains Neural Oscillations @ 한국뇌공학회
-- 2021.04.05 인공지능기술 소개 @ 경상북도인재개발원 
-- 2020.12.04 Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space @ 대한뇌파신경생리학회
+- 2021.08.19 Transcranial Alternating Current Stimulation Entrains Neural Oscillations @ Brain Engineering Society of Korea
+- 2021.04.05 Introduction to Artificial Intelligence @ Gyeongbuk Officials Training Institute
+- 2020.12.04 Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space @ Korea Society for EEG and Neurophysiology
 
 #### Education & Career
 - 2020.03-present Assistant Professor, Kyungpook National University
