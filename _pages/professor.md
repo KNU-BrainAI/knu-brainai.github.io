@@ -36,7 +36,7 @@ Phone: 053-950-5544<br/><br/>
 #### Education & Career
 - 2020.03-present Assistant Professor, Kyungpook National University
 - 2016.10-2020.02 Postdoc, University of North Carolina at Chapel Hill
-- 2016.09-2016.10 Postdoc, Gwangju Institute of Science and Technology
+- 2016.09-2016.09 Postdoc, Gwangju Institute of Science and Technology
 - 2012.09-2016.08 Ph.D., Gwangju Institute of Science and Technology
 - 2010.09-2012.08 M.S., Gwangju Institute of Science and Technology
 - 2006.03-2010.02 B.S., Chungnam National University
