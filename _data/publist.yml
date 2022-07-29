@@ -15,6 +15,10 @@
   description: 
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
   journal: Expert Systems with Applications, in revision
+  
+- title: "Prompt-based In-Context Learning for Korean Question and Answering"
+  authors: Eunchan Lee, Sangtae Ahn
+  journal: Korean Artificial Intelligence Association 2022
 
 - title: "Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models"
   authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
