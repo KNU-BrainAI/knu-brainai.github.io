@@ -33,10 +33,11 @@
 
 - name: Doheun Cha (차도흔)
   photo: DHCha.jpg
-  info: Undergraduate Researcher
+  info: M.S. Student
   email: chadoheun@knu.ac.kr
-  number_educ: 1
-  education1:
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
   
 - name: Jihoon Lee (이지훈)
   photo: jhlee.jpg
