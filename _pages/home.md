@@ -20,5 +20,5 @@ We are grateful for funding from Kyungpook National University (KNU), National R
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KNU.jpg" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ADD.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ADD.png" style="width: 90px">
 </figure>
