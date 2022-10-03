@@ -17,4 +17,7 @@ We believe that better understanding of the brain plays a vital role in developi
 - **Text-to-Image Generation** ![]({{ site.url }}{{ site.baseurl }}/images/CLIP.png){: style="width: 350px; float: right"} 
   
   Although deep learning has revolutionized computer vision, current approaches have several major problems: typical vision datasets are labor intensive and costly to create while teaching only a narrow set of visual concepts; standard vision models are good at one task and one task only, and require significant effort to adapt to a new task; and models that perform well on benchmarks have disappointingly poor performance on stress tests, casting doubt on the entire deep learning approach to computer vision. To address these problems, we study a neural network that it is trained on a wide variety of images with a wide variety of natural language supervision that’s abundantly available on the internet to generate images of high visual qualityfrom text prompts. <br><br><br>
-
+  
+- **Neural Text Generation** ![]({{ site.url }}{{ site.baseurl }}/images/LeakGAN.png){: style="width: 350px; float: right"} 
+  
+  Neural Text Generation is a type of Language Modelling problem. Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. We develop a neural network that generates text from images or sentences.  <br><br><br>
