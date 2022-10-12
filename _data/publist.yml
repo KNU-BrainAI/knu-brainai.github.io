@@ -14,6 +14,10 @@
   authors: Hyeonjin Jang, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Sangtae Ahn
   journal: The Korean Society of Medical & Biological Engineering Fall Conference (2022)
   
+- title: "Development of Electronic Device Recognition Model using YOLOv7"
+  authors: Hee-Won Lee, Sangtae Ahn
+  journal: Annual Conference of Korea Information Processing Society (2022)
+  
 - title: "Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning"
   authors: Eunchan Lee, Sangtae Ahn
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
@@ -21,10 +25,6 @@
 - title: "Improving Text Classification using Korean Text Style Transfer based Data Augmentation"
   authors: Eunwoo Go, Eunchan Lee, Sangtae Ahn
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
-
-- title: "Development of Electronic Device Recognition Model using YOLOv7"
-  authors: Hee-Won Lee, Sangtae Ahn
-  journal: Annual Conference of Korea Information Processing Society (2022)
 
 - title: "Generating Literature-Style Sentences based on Summarized Text"
   authors: Bugwang Choe, Eunchan Lee, Sangtae Ahn
