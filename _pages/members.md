@@ -61,6 +61,7 @@ permalink: /members/
 
 ## Alumni
 #### Undergraduate Researchers  
+2023.02 이동엽 POSTECH Graduate School<br>
 2022.08 차도흔 KNU Graduate School<br>
 2022.02 장현진 KNU Graduate School<br>
 2022.02 이승훈 KNU Graduate School<br>
