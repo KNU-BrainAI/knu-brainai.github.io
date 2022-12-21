@@ -8,6 +8,10 @@ permalink: /teaching/
 
 
 # Teaching
+#### Spring 2022
+- Machine Learning System Design
+- How to Write Research Papers
+
 #### Fall 2022
 - [Electronics Engineering Capstone Design 2](https://github.com/KNU-BrainAI-Capstone2022)
 - C Programming
