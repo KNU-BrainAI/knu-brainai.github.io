@@ -41,10 +41,19 @@
   
 - name: Jihoon Lee (이지훈)
   photo: jhlee.jpg
-  info: Undergraduate Researcher
+  info: M.S. Student
   email: leejh98123@knu.ac.kr
-  number_educ: 1
-  education1:
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
+  
+- name: Chanho Bae (배찬호)
+  photo: chbae.jpg
+  info: Research Intern
+  email: bch6042@gmail.com
+  number_educ: 2
+  education1: B.S., Metallurgical Engineering
+  education2: Pukyong National University
   
 - name: Bugwang Choe (최부광)
   photo: bgch.jpg
@@ -74,10 +83,4 @@
   number_educ: 1
   education1:
  
-- name: Chanho Bae (배찬호)
-  photo: chbae.jpg
-  info: Research Intern
-  email: bch6042@gmail.com
-  number_educ: 2
-  education1: B.S., Metallurgical Engineering
-  education2: Pukyong National University
+
