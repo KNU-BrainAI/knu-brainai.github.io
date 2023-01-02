@@ -1,20 +1,3 @@
-- name: Eunchan Lee (이은찬)
-  photo: eclee.jpg
-  info: M.S. Student
-  email: purang2@knu.ac.kr
-  number_educ: 2
-  education1: B.S., Electronics Engineering
-  education2: Kyungpook National University
-  
-
-- name: Yerim Kim (김예림)
-  photo: yrkim.jpg
-  info: M.S. Student
-  email: yerim@knu.ac.kr
-  number_educ: 2
-  education1: B.S., Electronics Engineering
-  education2: Kyungpook National University
-  
 - name: Hyeonjin Jang (장현진)
   photo: hjjang.jpg
   info: M.S. Student
