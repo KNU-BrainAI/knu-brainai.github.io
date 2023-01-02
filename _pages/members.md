@@ -61,6 +61,8 @@ permalink: /members/
 
 ## Alumni
 #### Masters Students
+2023.02 김예림 <br>
+2023.02 이은찬 <br>
 
 #### Undergraduate Researchers  
 2023.02 이동엽 POSTECH Graduate School<br>
