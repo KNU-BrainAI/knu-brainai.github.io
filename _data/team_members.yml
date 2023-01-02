@@ -53,28 +53,7 @@
   email: bch6042@gmail.com
   number_educ: 2
   education1: B.S., Metallurgical Engineering
-  education2: Pukyong National University
-  
-- name: Bugwang Choe (최부광)
-  photo: bgch.jpg
-  info: Undergraduate Researcher
-  email: cbgbg0727@knu.ac.kr
-  number_educ: 1
-  education1:
-
-- name: Dongyeop Lee (이동엽)
-  photo: dylee.jpeg
-  info: Undergraduate Researcher
-  email: edong6768@knu.ac.kr
-  number_educ: 1
-  education1:
-  
-- name: Eunwoo Go (고은우)
-  photo: ewgo.jpg
-  info: Undergraduate Researcher
-  email: alfofh1234@knu.ac.kr
-  number_educ: 1
-  education1:
+  education2: Pukyong National University  
   
 - name: Heewon Lee (이희원)
   photo: hwlee.jpg
