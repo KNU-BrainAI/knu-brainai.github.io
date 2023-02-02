@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-We believe that better understanding of the brain plays a vital role in developing intelligent systems. Since rapid progress has been made in the artificial intelligence (AI) field, it is crucial to investigate the importance of the brain to generate ideas that will accelerate and guide AI research. Thus, we seek to develop novel deep learning algorithms inspired by the brain functions. Our lab is interested in the following research areas but not limited.<br><br>
+We believe that better understanding of the brain plays a vital role in developing intelligent systems. Since rapid progress has been made in the artificial intelligence (AI) field, it is crucial to investigate the importance of the brain to come up with ideas that will accelerate and guide AI research. Thus, we seek to develop novel deep learning algorithms inspired by the brain functions. Our lab is interested in the following research areas but not limited.<br><br>
 
 - **Brain-Inspired Artificial Intelligence** ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 350px; float: right"}
   
