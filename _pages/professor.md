@@ -12,6 +12,7 @@ Sangtae Ahn (안상태) <br/><br/>
 Assistant Professor <br/>
 School of Electronics Engineering<br/>
 School of Electronic and Electrical Engineering<br/>
+Department of Water & IT Engineering<br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn@knu.ac.kr<br/>
@@ -34,7 +35,8 @@ Phone: +82-53-950-5544<br/><br/>
 - 2020.12.04 Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space @ Korea Society for EEG and Neurophysiology
 
 #### Education & Career
-- 2020.03-present Assistant Professor, Kyungpook National University
+- 2020.03-present Assistant Professor, School of Electronics Engineering, Kyungpook National University
+- 2023.03-present Adjunct Professor, Department of Water & IT Engineering, Kyungpook National University
 - 2016.10-2020.02 Postdoc, University of North Carolina at Chapel Hill
 - 2016.09-2016.09 Postdoc, Gwangju Institute of Science and Technology
 - 2012.09-2016.08 Ph.D., Gwangju Institute of Science and Technology
