@@ -61,7 +61,7 @@ permalink: /members/
 
 ## Alumni
 #### Masters Students
-2023.02 김예림 <br>
+2023.02 김예림 Researcher, DGIST Division of Nanotechnology<br>
 2023.02 이은찬 <br>
 
 #### Undergraduate Researchers  
