@@ -20,7 +20,7 @@ Phone: +82-53-950-5544<br/><br/>
 <br/><br/>
 
 #### Professional Service
-- 2023.01-present: 특임이사, 대한뇌파신경생리학회
+- 2023.01-present: 특임이사, Korea Society for EEG and Neurophysiology
 - 2022.06-present: Associate Editor, Journal of Applied Science and Engineering
 - 2021.09-present: Program Committee Member, International Conference on Neural Information Processing
 - 2018.09-present: Review Editor, Frontiers in Robotics and AI
