@@ -8,6 +8,10 @@ permalink: /teaching/
 
 
 # Teaching
+#### Fall 2023
+- Machine Learning System Design
+- Artificial Intelligence Application
+
 #### Spring 2022
 - Machine Learning System Design
 - How to Write Research Papers
