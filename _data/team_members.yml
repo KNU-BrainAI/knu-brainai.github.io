@@ -66,3 +66,26 @@
   number_educ: 1
   education1:
 
+- name: Steve Jacob
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: steve.jacob@btech.christuniversity.in
+  number_educ: 1
+  education1:
+
+- name: Joel Thomas
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: joel.vettikattil@btech.christuniversity.in
+  number_educ: 1
+  education1:
+
+- name: Sidhanth Menon
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: menon.sidhanth@btech.christuniversity.in
+  number_educ: 1
+  education1:
+
+
+
