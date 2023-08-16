@@ -4,10 +4,14 @@
 
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
-  journal: Biomedical Engineering Letters, 2023
+  journal: Biomedical Engineering Letters (2023)
   link:
     url: https://link.springer.com/article/10.1007/s13534-023-00309-4
     display: link
+
+- title: "Individualized Classification of Target Detection in Brain-Computer Interface"
+  authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
+  journal: IEEE EMBC (2023)
 
 - title: "Classification of Surface Electromyography using Spiking Neural Network"
   authors: Doheun Cha, Sangtae Ahn
