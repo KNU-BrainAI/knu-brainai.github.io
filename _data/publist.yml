@@ -2,9 +2,12 @@
   authors: Seunghun Lee, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
   journal: under review (2023)
 
-- title: "Improving performance of object detection by preserving balanced class distribution"
+- title: "Improving the performance of object detection by preserving balanced class distribution"
   authors: Heewon Lee, Sangtae Ahn
-  journal: under review (2023)
+  journal: Mathematics (2023)
+  link:
+    url: https://www.mdpi.com/2227-7390/11/21/4460
+    display: link
 
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
