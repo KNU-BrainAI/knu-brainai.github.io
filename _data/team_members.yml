@@ -66,21 +66,21 @@
   number_educ: 1
   education1:
 
-- name: (민윤홍)
+- name: 민윤홍
   photo: blank.png
   info: Undergraduate Researcher
   email: dbsghd363@knu.ac.kr
   number_educ: 1
   education1:
 
-- name: (김휘동)
+- name: 김휘동
   photo: blank.png
   info: Undergraduate Researcher
   email: mat2408@naver.com
   number_educ: 1
   education1:
 
-- name: (전승빈)
+- name: 전승빈
   photo: blank.png
   info: Undergraduate Researcher
   email: tmdqls0424@naver.com
@@ -107,6 +107,14 @@
   email: menon.sidhanth@btech.christuniversity.in
   number_educ: 1
   education1:
+
+- name: 채경모
+  photo: blank.png
+  info: Research Intern
+  email: mapl00@naver.com
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
 
 
 
