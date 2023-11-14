@@ -61,14 +61,11 @@ permalink: /members/
 
 ## Alumni
 #### Masters Students
-2024.02 <br>
 2023.02 김예림 Researcher, DGIST <br>
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
-2024.02 <br>
-2024.02 <br>
-2024.02 <br>
+2024.02 박진수 Hyundai Motor Company<br>
 2023.02 이동엽 POSTECH Graduate School<br>
 2022.08 차도흔 KNU Graduate School<br>
 2022.02 장현진 KNU Graduate School<br>
