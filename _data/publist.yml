@@ -16,42 +16,6 @@
     url: https://link.springer.com/article/10.1007/s13534-023-00309-4
     display: link
 
-- title: "Classification of Hand Gestures using Hybrid Deep Neural Networks"
-  authors: Steve Jacob, Joel Thomas, Sidhanth Menon, Doheun Cha, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Enhancing Text-to-Image Generative Models through In-Context Few-Shot Learning of Denoising Prompts"
-  authors: Seunghun Lee, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Enhancing Efficiency of Deep Neural Network by Integer Quantization"
-  authors: Chaeyeong Jin, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Better Robustness by Adversarial Training for Hand Gesture Recognition"
-  authors: Doheun Cha, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-  
-- title: "Recognizing Indoor Scenes in Gray-Scaled Top-View Images"
-  authors: Suhyeong Jeon, Chaeyeong Jin, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-  
-- title: "Binary Masking for Background Inpainting in Text-to-Image Synthesis"
-  authors: Jihoon Lee, Chan Ho Bae, Seunghun Lee, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Optimizing Image Deblurring by Parallel Attention and Feed-Forward Network"
-  authors: Jinsu Park, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Improving Quality of Text-to-Image Synthesis using Machine Translation"
-  authors: Chan Ho Bae, Jihoon Lee, Seunghun Lee, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
-- title: "Improving performance of object detection by preserving class distribution"
-  authors: Heewon Lee, Sangtae Ahn
-  journal: KNU-EE Research Congress (2023)
-
 - title: "Individualized Classification of Target Detection in Brain-Computer Interface"
   authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
   journal: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
