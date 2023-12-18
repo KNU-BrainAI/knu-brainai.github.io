@@ -15,7 +15,7 @@ permalink: /members/
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-
+                                                        
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
@@ -61,19 +61,20 @@ permalink: /members/
 
 ## Alumni
 #### Masters Students
-2024.02 이승훈 한화시스템 <br>
+2024.02 이승훈 Hanhwa Systems <br>
 2023.02 김예림 Researcher, DGIST <br>
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
-2024.02 박진수 현대자동차<br>
-2023.02 이동엽 POSTECH Graduate School<br>
-2022.08 차도흔 KNU Graduate School<br>
-2022.02 장현진 KNU Graduate School<br>
-2022.02 이승훈 KNU Graduate School<br>
-2022.02 박재성 KAIST Graduate School<br>
-2021.12 이창현 UNIST Graduate School<br>
-2021.08 박시은 KNU Graduate School<br>
-2021.06 권현수 LG전자 <br>
-2021.02 이은찬 KNU Graduate School<br>
-2020.12 권현지 한국항공우주<br>
+2024.02 전수형 LG Electronics<br>
+2024.02 박진수 Hyundai Motor Company<br>
+2024.02 이희원 Graduate School, Yonsei University Company<br>
+2023.02 이동엽 Graduate School, POSTECH<br>
+2022.08 차도흔 Graduate School, KNU<br>
+2022.02 장현진 Graduate School, KNU<br>
+2022.02 이승훈 Graduate School, KNU<br>
+2022.02 박재성 Graduate School, KAIST<br>
+2021.12 이창현 Graduate School, UNIST<br>
+2021.08 박시은 Graduate School, KNU<br>
+2021.06 권현수 LG Electronics <br>
+2021.02 이은찬 Graduate School, KNU<br>
