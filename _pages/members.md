@@ -68,7 +68,7 @@ permalink: /members/
 #### Undergraduate Researchers  
 2024.02 전수형 LG Electronics<br>
 2024.02 박진수 Hyundai Motor Company<br>
-2024.02 이희원 Graduate School, Yonsei University Company<br>
+2024.02 이희원 Graduate School, Yonsei University<br>
 2023.02 이동엽 Graduate School, POSTECH<br>
 2022.08 차도흔 Graduate School, KNU<br>
 2022.02 장현진 Graduate School, KNU<br>
