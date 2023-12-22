@@ -61,7 +61,7 @@ permalink: /members/
 
 ## Alumni
 #### Masters Students
-2024.02 이승훈 Hanhwa Systems <br>
+2024.02 이승훈 Hanhwa Systems (Research Center) <br>
 2023.02 김예림 Researcher, DGIST <br>
 2023.02 이은찬 PhD Student, UNIST <br>
 
