@@ -5,6 +5,9 @@
 - title: "Optimizing Prompts using In-Context Few-Shot Learning for Text-to-Image Generative Models"
   authors: Seunghun Lee, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
   journal: IEEE Access (2023)
+    link:
+    url: https://ieeexplore.ieee.org/document/10378642
+    display: link
 
 - title: "Improving the performance of object detection by preserving balanced class distribution"
   authors: Heewon Lee, Sangtae Ahn
