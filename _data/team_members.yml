@@ -81,10 +81,18 @@
   education2: Kyungpook National University
 
 
-- name: 양재모
+- name: Yang Jae-Mo(양재모)
   photo: blank.png
   info: Undergraduate Researcher
   email: didwoah@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+
+- name: Seongguk Park(박성국)
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: psk2013@knu.ac.kr
   number_educ: 1
   education1: 
 
