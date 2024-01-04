@@ -36,7 +36,14 @@
   email: bch6042@gmail.com
   number_educ: 2
   education1: B.S., Metallurgical Engineering
-  education2: Pukyong National University  
+  education2: Pukyong National University
+
+- name: 전승빈
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: tmdqls0424@naver.com
+  number_educ: 1
+  education1:
 
 - name: 채경모
   photo: kmchae.jpg
@@ -57,13 +64,6 @@
   photo: blank.png
   info: Undergraduate Researcher
   email: mat2408@naver.com
-  number_educ: 1
-  education1:
-
-- name: 전승빈
-  photo: blank.png
-  info: Undergraduate Researcher
-  email: tmdqls0424@naver.com
   number_educ: 1
   education1:
 
