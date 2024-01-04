@@ -30,6 +30,14 @@
   education1: B.S., Metallurgical Engineering
   education2: Pukyong National University  
 
+- name: 채경모
+  photo: kmchae.jpg
+  info: Research Intern
+  email: mapl00@naver.com
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
+  
 - name: 민윤홍
   photo: yhmin.jpg
   info: Undergraduate Researcher
@@ -51,6 +59,20 @@
   number_educ: 1
   education1:
 
+- name: Jae-Mo Yang (양재모)
+  photo: jmyang.jpg
+  info: Undergraduate Researcher
+  email: didwoah@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+- name: Seongguk Park (박성국)
+  photo: psk.jpg
+  info: Undergraduate Researcher
+  email: psk2013@knu.ac.kr
+  number_educ: 1
+  education1: 
+
 - name: Steve Jacob
   photo: blank.png
   info: Undergraduate Researcher
@@ -71,28 +93,3 @@
   email: menon.sidhanth@btech.christuniversity.in
   number_educ: 1
   education1:
-
-- name: 채경모
-  photo: kmchae.jpg
-  info: Research Intern
-  email: mapl00@naver.com
-  number_educ: 2
-  education1: B.S., Electronics Engineering
-  education2: Kyungpook National University
-
-
-- name: Jae-Mo Yang (양재모)
-  photo: jmyang.jpg
-  info: Undergraduate Researcher
-  email: didwoah@knu.ac.kr
-  number_educ: 1
-  education1: 
-
-
-- name: Seongguk Park (박성국)
-  photo: psk.jpg
-  info: Undergraduate Researcher
-  email: psk2013@knu.ac.kr
-  number_educ: 1
-  education1: 
-
