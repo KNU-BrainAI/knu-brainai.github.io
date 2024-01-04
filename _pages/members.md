@@ -42,6 +42,13 @@ permalink: /members/
   {{ member.education2 }}<br>
   {{ member.education3 }}
   {% endif %}
+
+  {% if member.number_educ == 4 %}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
+  {{ member.education4 }}
+  {% endif %}
   
 <br>
 </div>
