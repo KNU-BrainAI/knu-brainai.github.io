@@ -48,14 +48,15 @@
 
 - name: Seongbhin Jeon (전승빈)
   photo: blank.png
-  info: Undergraduate Researcher
+  info: M.S. Student
   email: tmdqls0424@naver.com
-  number_educ: 1
-  education1:
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
 
 - name: 채경모
   photo: kmchae.jpg
-  info: Research Intern
+  info: M.S. Student
   email: mapl00@naver.com
   number_educ: 2
   education1: B.S., Electronics Engineering
