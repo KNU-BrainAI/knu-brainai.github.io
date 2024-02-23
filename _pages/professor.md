@@ -19,6 +19,7 @@ Phone: 053-950-5544<br/><br/>
 
 #### Professional Services
 - 2023.04-present: Board Member, Brain Engineering Society of Korea
+- 2023.02-present: Technical Program Committee, International Joint Conference on Neural Networks (IJCNN)
 - 2023.01-present: Board Member, Korea Society for EEG and Neurophysiology
 - 2022.06-present: Associate Editor, Journal of Applied Science and Engineering
 - 2021.09-present: Program Committee Member, International Conference on Neural Information Processing
