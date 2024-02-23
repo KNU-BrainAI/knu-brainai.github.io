@@ -24,6 +24,13 @@
     url: https://www.mdpi.com/2227-7390/11/21/4460
     display: link
 
+- title: "Experimental Study of Morphological Analyzers for Topic Categorization in News Articles"
+  authors: Sangtae Ahn
+  journal: Applied Sciences (2023)
+  link:
+    url: https://www.mdpi.com/2076-3417/13/19/10572
+    display: link
+    
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
   journal: Biomedical Engineering Letters (2023)
