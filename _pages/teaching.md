@@ -10,6 +10,10 @@ permalink: /teaching/
 # Teaching
 #### Fall 2023
 - Machine Learning System Design
+- Python Programming
+
+#### Fall 2023
+- Machine Learning System Design
 - Artificial Intelligence Application
 
 #### Spring 2023
