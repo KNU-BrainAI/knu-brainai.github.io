@@ -18,7 +18,6 @@ Phone: +82-53-950-5544<br/><br/>
 <br/><br/>
 
 #### Professional Services
-- 2024.03-present: Vice Dean, College of IT Engineering, Kyungpook National University
 - 2023.04-present: Board Member, Brain Engineering Society of Korea
 - 2023.01-present: Board Member, Korea Society for EEG and Neurophysiology
 - 2022.06-present: Associate Editor, Journal of Applied Science and Engineering
