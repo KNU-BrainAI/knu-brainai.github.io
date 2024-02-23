@@ -9,8 +9,8 @@ permalink: /professor/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left; margin:50px"}
 <br/><br/>
 Sangtae Ahn (안상태) <br/><br/>
-Associate Professor @ School of Electronics Engineering<br/>
-Vice Dean @ College of IT Engineering  <br/><br/>
+Vice Dean @ College of IT Engineering  <br/>
+Associate Professor @ School of Electronics Engineering<br/><br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn@knu.ac.kr<br/>
