@@ -14,7 +14,7 @@ Associate Professor @ School of Electronics Engineering<br/><br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn@knu.ac.kr<br/>
-Phone: +82-53-950-5544<br/><br/>
+Phone: 053-950-5544<br/><br/>
 <br/><br/>
 
 #### Professional Services
