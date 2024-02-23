@@ -28,8 +28,11 @@ Phone: +82-53-950-5544<br/><br/>
 - 2019.05-2020.02: Guest Editor, Computational Intelligence and Neuroscience 
 
 #### Invited Talks
+- 2023.11.08 Intelligent Control of System Air Conditioner @ LG Electronics
+- 2023.08.03 Development of a Customized Dataset Augmentation Technique based on Image Style Transfer @ KISTI Workshop
 - 2023.07.14 Understanding human intention using electromyography @ Physical Intelligence Workshop
 - 2023.06.22 Pinging the brain with transcranial stimulation @ Brain Engineering Society of Korea
+- 2023.06.09 Entrainment of neural oscillations by alternating current stimulation @ Hallym University
 - 2023.04.17 is STILL still working? STILL: STimulation to Improve auditory haLLucinations @ Korea University
 - 2022.12.28 Story to Fairy Tale Image Synthesis using Stable Diffusion @ Neurophet Inc.
 - 2022.06.28 Treating Patients with Psychiatric Disorders by Entrainment of Neural Oscillations @ Brain Engineering Society of Korea
