@@ -9,9 +9,8 @@ permalink: /professor/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/stahn.jpg){: style="width: 200px; float: left; margin:50px"}
 <br/><br/>
 Sangtae Ahn (안상태) <br/><br/>
-Associate Professor <br/>
-School of Electronics Engineering<br/>
-School of Electronic and Electrical Engineering<br/>
+Associate Professor @ School of Electronics Engineering<br/>
+Vice Dean @ College of IT Engineering  <br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn@knu.ac.kr<br/>
@@ -19,6 +18,7 @@ Phone: +82-53-950-5544<br/><br/>
 <br/><br/>
 
 #### Professional Service
+- 2024.03-present: Vice Dean, College of IT Engineering, Kyungpook National University
 - 2023.04-present: Board Member, Brain Engineering Society of Korea
 - 2023.01-present: Board Member, Korea Society for EEG and Neurophysiology
 - 2022.06-present: Associate Editor, Journal of Applied Science and Engineering
