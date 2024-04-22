@@ -1,5 +1,9 @@
+- title: "Extracting Text Descriptions from Images for Indoor Scene Recognition"
+  authors: Chan Ho Bae, Sangtae Ahn
+  journal: in preparation (2024)
+
 - title: "MSC-HGR: Multi-Supervised Contrastive Learning for Hand Gesture Recognition in Surface EMG"
-  authors: Jae-Mo Yang, Doheun Cha, Sangtae Ahn
+  authors: Jaemo Yang, Doheun Cha, Sangtae Ahn
   journal: in preparation (2024)
 
 - title: "DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
