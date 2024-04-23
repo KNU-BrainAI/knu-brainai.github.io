@@ -14,7 +14,7 @@ We investigate artificial intelligence (AI) by understanding the underlying mech
 We have a lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} page to share our lab stuff including lab website, code, research projects, and etc.
 Please visit our lab [GitHub](https://github.com/KNU-BrainAI){:target="_blank"} to get more information. 
 
-We are grateful for funding from Kyungpook National University (KNU), National Reserach Foundation of Korea (NRF), Agency for Defense Development (ADD), and LG Electronics.
+We are grateful for funding from Kyungpook National University (KNU), National Reserach Foundation of Korea (NRF), and LG Electronics.
 <br/>
 <br/>
 <figure class="fourth">
