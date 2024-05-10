@@ -19,7 +19,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: center" />
   {{ publi.authors }} <br />
   <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
-  ---
+  ***
 
 {% endfor %}
 
