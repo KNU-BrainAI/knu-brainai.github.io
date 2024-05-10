@@ -29,6 +29,7 @@ COMMENT
 {% for publi in site.data.publist_conf %}
 
   {{ publi.title }} <br />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   {{ publi.authors }} <br />
   <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
