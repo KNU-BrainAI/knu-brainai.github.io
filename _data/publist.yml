@@ -63,7 +63,6 @@
   highlight: 1
 
 - title: "Individualized Classification of Target Detection in Brain-Computer Interface"
-  image: RSEEG_AD.jpg
   authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
   journal: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
   
@@ -103,7 +102,7 @@
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
   
 - title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
-  image: 
+  image: RSEEG_AD.jpg
   description: 
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
   journal: Expert Systems with Applications (2022)
