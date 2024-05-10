@@ -31,28 +31,25 @@
   journal: The 12th International Winter Conference on Brain-Computer Interface (2024)
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10480519
-    display: link
+    display: 12th International Winter Conference on Brain-Computer Interface (2024)
 
 - title: "Optimizing Prompts using In-Context Few-Shot Learning for Text-to-Image Generative Models"
   authors: Seunghun Lee, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
-  journal: IEEE Access (2024)
   link:
     url: https://ieeexplore.ieee.org/document/10378642
-    display: link
+    display: IEEE Access 12, 2660 - 2673 (2024)
 
 - title: "Improving the performance of object detection by preserving balanced class distribution"
   authors: Heewon Lee, Sangtae Ahn
-  journal: Mathematics (2023)
   link:
     url: https://www.mdpi.com/2227-7390/11/21/4460
-    display: link
+    display: Mathematics 11, 21 (2023)
 
 - title: "Experimental Study of Morphological Analyzers for Topic Categorization in News Articles"
   authors: Sangtae Ahn
-  journal: Applied Sciences (2023)
   link:
     url: https://www.mdpi.com/2076-3417/13/19/10572
-    display: link
+    display: Applied Sciences 13, 19 (2023)
     
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   image: TSANet.png
