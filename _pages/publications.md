@@ -13,7 +13,14 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 ### Journals & Conferences
 
+{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -25,6 +32,13 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 </div>
   
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
 {% endfor %}
 
 
