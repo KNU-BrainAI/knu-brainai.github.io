@@ -55,6 +55,7 @@
     display: link
     
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
+  image: TSANet.png
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
   journal: Biomedical Engineering Letters (2023)
   link:
