@@ -17,7 +17,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
@@ -38,7 +38,7 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 </div>
 {% endif %}
 
-{% endif %}
+
 {% endfor %}
 
 
