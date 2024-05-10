@@ -1,12 +1,15 @@
 - title: "Extracting Text Descriptions from Images for Indoor Scene Recognition"
+  image: Scene.png
   authors: Chan Ho Bae, Sangtae Ahn
   journal: in preparation (2024)
 
 - title: "SAC-HGR: Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
+  image: SAC.png
   authors: Jaemo Yang, Doheun Cha, Sangtae Ahn
   journal: under review (2024)
 
 - title: "Anonymized Title"
+  image: DAFT.png
   authors: Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn
   journal: ACM Multimedia 2024, under review (2024)
 
