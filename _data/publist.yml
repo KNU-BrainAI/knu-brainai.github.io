@@ -45,41 +45,42 @@
   authors: Seunghun Lee, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
   link:
     url: https://ieeexplore.ieee.org/document/10378642
-    display: IEEE Access 12, 2660 - 2673 (2024)
+    display: IEEE Access (2024)
 
 - title: "Improving the performance of object detection by preserving balanced class distribution"
   image: ObjectDetection.png
   authors: Heewon Lee, Sangtae Ahn
   link:
     url: https://www.mdpi.com/2227-7390/11/21/4460
-    display: Mathematics 11, 21 (2023)
+    display: Mathematics (2023)
 
 - title: "Experimental Study of Morphological Analyzers for Topic Categorization in News Articles"
   image: Morp.png
   authors: Sangtae Ahn
   link:
     url: https://www.mdpi.com/2076-3417/13/19/10572
-    display: Applied Sciences 13, 19 (2023)
+    display: Applied Sciences (2023)
     
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
   image: TSANet.png
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
   link:
     url: https://link.springer.com/article/10.1007/s13534-023-00309-4
-    display: Biomedical Engineering Letters 14, 45-55 (2024)
-  highlight: 1
+    display: Biomedical Engineering Letters (2024)
 
 - title: "Individualized Classification of Target Detection in Brain-Computer Interface"
   image: Individualized.png
   authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
-  journal: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
+  link:
+    url:
+    display: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
   
 - title: "Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial"
   image: alphaSCZ.png
   authors: Mengsen Zhang, Rachel B. Force, Christopher Walker, Sangtae Ahn, L. Fredrik Jarskog, Flavio Frohlich
   link:
     url: https://www.nature.com/articles/s41537-022-00321-0
-    display: Schizophrenia 8, 114 (2022)
+    display: Schizophrenia (2022)
 
 - title: "STARGen: Story to Art Generation using Fine-tuned Stable Diffusion"
   authors: Seunghun Lee, Dongyeop Lee, Eunchan Lee, Sangtae Ahn
