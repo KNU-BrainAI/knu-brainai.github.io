@@ -41,18 +41,21 @@
     display: 12th International Winter Conference on Brain-Computer Interface (2024)
 
 - title: "Optimizing Prompts using In-Context Few-Shot Learning for Text-to-Image Generative Models"
+  image: Prompt.png
   authors: Seunghun Lee, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
   link:
     url: https://ieeexplore.ieee.org/document/10378642
     display: IEEE Access 12, 2660 - 2673 (2024)
 
 - title: "Improving the performance of object detection by preserving balanced class distribution"
+  image: ObjectDetection.png
   authors: Heewon Lee, Sangtae Ahn
   link:
     url: https://www.mdpi.com/2227-7390/11/21/4460
     display: Mathematics 11, 21 (2023)
 
 - title: "Experimental Study of Morphological Analyzers for Topic Categorization in News Articles"
+  image: Morp.png
   authors: Sangtae Ahn
   link:
     url: https://www.mdpi.com/2076-3417/13/19/10572
@@ -67,15 +70,16 @@
   highlight: 1
 
 - title: "Individualized Classification of Target Detection in Brain-Computer Interface"
+  image: Individualized.png
   authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
   journal: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
   
 - title: "Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial"
+  image: alphaSCZ.png
   authors: Mengsen Zhang, Rachel B. Force, Christopher Walker, Sangtae Ahn, L. Fredrik Jarskog, Flavio Frohlich
-  journal: Schizophrenia (2022)
   link:
     url: https://www.nature.com/articles/s41537-022-00321-0
-    display: link
+    display: Schizophrenia 8, 114 (2022)
 
 - title: "STARGen: Story to Art Generation using Fine-tuned Stable Diffusion"
   authors: Seunghun Lee, Dongyeop Lee, Eunchan Lee, Sangtae Ahn
