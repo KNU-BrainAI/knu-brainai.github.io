@@ -15,10 +15,14 @@ see also [Google Scholar](https://scholar.google.com/citations?hl=en&user=F-LXQw
 
 {% for publi in site.data.publist %}
 
+<div class="col-sm-6 clearfix">
+ <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: center" />
   {{ publi.authors }} <br />
   <em>{{ publi.journal }}</em> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+   </div>
+</div>
   
 
 {% endfor %}
