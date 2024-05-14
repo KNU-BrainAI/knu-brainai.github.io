@@ -83,30 +83,37 @@
     display: Schizophrenia (2022)
 
 - title: "STARGen: Story to Art Generation using Fine-tuned Stable Diffusion"
+  image: STARGen.png
   authors: Seunghun Lee, Dongyeop Lee, Eunchan Lee, Sangtae Ahn
   journal: The 7th Joint Conference of Korean Artificial Intelligence Association (2022)
   
 - title: "Development of Next-Generation Parking Management System using Deep Learning"
+  image: Parking.png
   authors: Hee-Won Lee, Kyu-chul Jung, Hyun-Jung Lee, Hye-Won Son, Hee-Jin Yoon, Sangtae Ahn
   journal: Korea Institute of Information Technology Conference (2022)
   
 - title: "Classification of Severity in Alzheimer's Disease using Deep Learning"
+  image: AD_Sev.png
   authors: Hyeonjin Jang, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Sangtae Ahn
   journal: The Korean Society of Medical & Biological Engineering Fall Conference (2022)
   
 - title: "Development of Electronic Device Recognition Model using YOLOv7"
+  image: YOLOv7.png
   authors: Hee-Won Lee, Sangtae Ahn
   journal: Annual Conference of Korea Information Processing Society (2022)
   
 - title: "Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning"
+  image: FewShot.jpg
   authors: Eunchan Lee, Sangtae Ahn
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
 
 - title: "Improving Text Classification using Korean Text Style Transfer based Data Augmentation"
+  image: StyleTransfer.jpg
   authors: Eunwoo Go, Eunchan Lee, Sangtae Ahn
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
 
 - title: "Generating Literature-Style Sentences based on Summarized Text"
+  image: Literature.png
   authors: Bugwang Choe, Eunchan Lee, Sangtae Ahn
   journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
   
