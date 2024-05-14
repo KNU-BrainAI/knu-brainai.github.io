@@ -74,7 +74,6 @@ permalink: /members/
 
 #### Undergraduate Researchers  
 2024.02 전승빈 KNU Graduate School<br>
-2024.02 진채영 <br>
 2024.02 전수형 LG Electronics<br>
 2024.02 박진수 Hyundai Motor Company<br>
 2024.02 이희원 Yonsei Univ. Graduate School<br>
