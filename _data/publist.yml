@@ -85,75 +85,89 @@
 - title: "STARGen: Story to Art Generation using Fine-tuned Stable Diffusion"
   image: blank.png
   authors: Seunghun Lee, Dongyeop Lee, Eunchan Lee, Sangtae Ahn
-  journal: The 7th Joint Conference of Korean Artificial Intelligence Association (2022)
+  link:
+    url:
+    display: The 7th Joint Conference of Korean Artificial Intelligence Association (2022)
   
 - title: "Development of Next-Generation Parking Management System using Deep Learning"
   image: blank.png
   authors: Hee-Won Lee, Kyu-chul Jung, Hyun-Jung Lee, Hye-Won Son, Hee-Jin Yoon, Sangtae Ahn
-  journal: Korea Institute of Information Technology Conference (2022)
-  
+  link:
+    url:
+    display: Korea Institute of Information Technology Conference (2022)
+    
 - title: "Classification of Severity in Alzheimer's Disease using Deep Learning"
   image: blank.png
   authors: Hyeonjin Jang, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Sangtae Ahn
-  journal: The Korean Society of Medical & Biological Engineering Fall Conference (2022)
-  
+  link:
+    url:
+    display: The Korean Society of Medical & Biological Engineering Fall Conference (2022)
+
 - title: "Development of Electronic Device Recognition Model using YOLOv7"
   image: blank.png
   authors: Hee-Won Lee, Sangtae Ahn
-  journal: Annual Conference of Korea Information Processing Society (2022)
+  link:
+    url:
+    display: Annual Conference of Korea Information Processing Society (2022)
   
 - title: "Image Generation from Korean Dialogue Text via Prompt-based Few-shot Learning"
   image: blank.jpg
   authors: Eunchan Lee, Sangtae Ahn
-  journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
-
+  link:
+    url:
+    display: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
+  
 - title: "Improving Text Classification using Korean Text Style Transfer based Data Augmentation"
   image: blank.jpg
   authors: Eunwoo Go, Eunchan Lee, Sangtae Ahn
-  journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
+  link:
+    url:
+    display: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
 
 - title: "Generating Literature-Style Sentences based on Summarized Text"
   image: blank.png
   authors: Bugwang Choe, Eunchan Lee, Sangtae Ahn
-  journal: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
+  link:
+    url:
+    display: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
   
 - title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
   image: RSEEG_AD.jpg
   description: 
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
-  journal: Expert Systems with Applications (2022)
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0957417422015913?dgcid=author#!
-    display: link
+    display: Expert Systems with Applications (2022)
   
 - title: "Prompt-based In-Context Learning for Korean Question and Answering"
+  image: blank.png
   authors: Eunchan Lee, Sangtae Ahn
-  journal: Korean Artificial Intelligence Association Summer Conference (2022)
+  link:
+    url:
+    display: Korean Artificial Intelligence Association Summer Conference (2022)
   
 - title: "Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models"
+  image: blank.png
   authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
-  journal: Applied Sciences (2022)
   link:
     url: https://www.mdpi.com/2076-3417/12/9/4522
-    display: link
+    display: Applied Sciences (2022)
   
 - title: "Differing dose details and controlling confounding covariates in modulating motor cortex excitability by transcranial direct current stimulation"
-  image: 
+  image: blank.png
   description: 
   authors: Flavio Frohlich, Sangtae Ahn
-  journal: Brain Stimulation (2021)
   link:
     url: https://www.brainstimjrnl.com/article/S1935-861X(21)00115-7/fulltext
-    display: link
+    display: Brain Stimulation (2021)
   
 - title: "Transcranial Alternating Current Stimulation Reduces Network Hypersynchrony and Persistent Vertigo"
-  image: 
+  image: blank.png
   description: 
   authors: Sangtae Ahn, Diamond Gleghorn, Benjamin C Doudican, Flavio Frohlich, Yoon-Hee Cha
-  journal: Neuromodulation (2021)
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1111/ner.13389
-    display: link
+    display: Neuromodulation (2021)
 
 - title: "Transcranial Alternating Current Stimulation Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
   image: 
