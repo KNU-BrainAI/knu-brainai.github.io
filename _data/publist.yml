@@ -83,11 +83,18 @@
     display: Schizophrenia (2022)
 
 - title: "STARGen: Story to Art Generation using Fine-tuned Stable Diffusion"
-  image: blank.png
+  image: STARGen.png
   authors: Seunghun Lee, Dongyeop Lee, Eunchan Lee, Sangtae Ahn
   link:
     url:
     display: The 7th Joint Conference of Korean Artificial Intelligence Association (2022)
+
+- title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
+  image: RSEEG_AD.jpg
+  authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417422015913?dgcid=author#!
+    display: Expert Systems with Applications (2022)
   
 - title: "Development of Next-Generation Parking Management System using Deep Learning"
   image: blank.png
@@ -130,14 +137,6 @@
   link:
     url:
     display: The 34th Annual Conference on Human & Cognitive Language Technology (2022)
-  
-- title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
-  image: RSEEG_AD.jpg
-  description: 
-  authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0957417422015913?dgcid=author#!
-    display: Expert Systems with Applications (2022)
   
 - title: "Prompt-based In-Context Learning for Korean Question and Answering"
   image: blank.png
