@@ -193,13 +193,27 @@
     display: Brain Stimulation (2021)
     
 - title: "Progesterone modulates theta oscillations in the frontal-parietal network"
-  image: blank.png
+  image: Progesteron.png
   description: 
   authors: Justin Riddle, Sangtae Ahn, Trevor McPherson, Susan Girdler, Flavio Frohlich
   link:
     url: http://onlinelibrary.wiley.com/doi/full/10.1111/psyp.13632
     display:  Psychophysiology (2020)
 
+- title: "Neurophysiological Substrates of Configural Face Perception in Schizotypy"
+  image: Schizotypy.png
+  authors: Sangtae Ahn, Caroline Lustenberger, L. Fredrik Jarskog, Flavio Frohlich
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0920996419305031
+    display: Schizophrenia Research (2020)
+    
+- title: "Exploring the relationship between geomagnetic activity and human heart rate variability"
+  image: HRV.png
+  authors: Matthew Mattoni†, Sangtae Ahn†, Flavio Frohlich
+  link:
+    url: https://link.springer.com/article/10.1007/s00421-020-04369-7
+    display: European Journal of Applied Physiology (2020)
+    
 - title: "Brain-derived neurotrophic factor (BDNF) polymorphism gates the efficacy of tACS to modulate neural oscillations"
   image: blank.png
   description: 
@@ -207,13 +221,6 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1935861X20300917
     display: Brain Stimulation (2020)
-  
-- title: "Exploring the relationship between geomagnetic activity and human heart rate variability"
-  image: blank.png
-  authors: Matthew Mattoni†, Sangtae Ahn†, Flavio Frohlich
-  link:
-    url: https://link.springer.com/article/10.1007/s00421-020-04369-7
-    display: European Journal of Applied Physiology (2020)
 
 - title: "Ergonomic Issues in Brain-Computer Interface Technologies: Current Status, Challenges, and Future Direction"
   image: blank.png
@@ -222,13 +229,6 @@
   link:
     url: https://www.hindawi.com/journals/cin/2020/4876397/
     display: Computational Intelligence and Neuroscience (2020)
-
-- title: "Neurophysiological Substrates of Configural Face Perception in Schizotypy"
-  image: blank.png
-  authors: Sangtae Ahn, Caroline Lustenberger, L. Fredrik Jarskog, Flavio Frohlich
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0920996419305031
-    display: Schizophrenia Research (2020)
 
 - title: "Targeting the Autonomic Nervous System Balance in Patients with Chronic Low Back Pain Using Transcranial Alternating Current Stimulation: A Randomized, Crossover, Double-Blind, Placebo-Controlled Pilot Study"
   image: blank.png
