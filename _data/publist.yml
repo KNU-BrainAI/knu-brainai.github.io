@@ -179,16 +179,14 @@
     display: Neuromodulation (2021)
 
 - title: "Transcranial Alternating Current Stimulation Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
-  image: blank.png
-  description: 
+  image: Ferret.png
   authors: Wei Huang, Iain Stitt, Ehsan Negahbani, D.J. Passey, Sangtae Ahn, Marshall Davey, Moritz Dannhauer, Thien Doan, Anna Hoover, Angel Peterchev, Susanne Radtke-Schuller, Flavio Frohlich
   link:
     url: https://www.nature.com/articles/s41467-021-23021-2
     display: Nature Communications (2021)
     
 - title: "Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space"
-  image: blank.png
-  description: 
+  image: TEP.png
   authors: Sangtae Ahn, Flavio Frohlich
   link:
     url: https://www.brainstimjrnl.com/article/S1935-861X(21)00023-1/fulltext
