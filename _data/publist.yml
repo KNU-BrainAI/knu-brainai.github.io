@@ -1,7 +1,7 @@
-- title: "Intelligence Security Control for Fractional-order  Multi-agent Networked System Using Reinforcement Learning and Event-triggered Communication Mechanism"
+- title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
   image: blank.png
-  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
-  journal: in preparation (2024)
+  authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
+  journal: under review (2024)
 
 - title: "Event-triggered Consensus for Fractional-order Multi-agent Systems with Finite-time Control Scheme: Its Application to Interconnected Power Systems"
   image: blank.png
@@ -11,11 +11,11 @@
 - title: "INTSceneNet: Dynamic Integration of Image and Text for Scene Recognition"
   image: Scene.png
   authors: Chan Ho Bae, Sangtae Ahn
-  journal: in preparation (2024)
+  journal: under review (2024)
 
-- title: "SAC-HGR: Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
+- title: "STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
   image: SAC.png
-  authors: Jaemo Yang, Doheun Cha, Sangtae Ahn
+  authors: Jaemo Yang, Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   journal: under review (2024)
 
 - title: "DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
