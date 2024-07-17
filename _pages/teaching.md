@@ -8,6 +8,10 @@ permalink: /teaching/
 
 
 # Teaching 
+#### Fall 2024
+- Advanced Software Engineering
+- C Programming
+
 #### Spring 2024
 - Machine Learning System Design
 - Python Programming
