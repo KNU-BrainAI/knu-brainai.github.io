@@ -21,7 +21,9 @@
 - title: "DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
   image: DAFT.png
   authors: Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn
-  journal: ACM Multimedia 2024 (2024)
+  link:
+    url: https://openreview.net/forum?id=wqfOsjwryj
+    display: ACM Multimedia 2024 (2024)
 
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
   image: Memristive.png
