@@ -61,13 +61,6 @@
   number_educ: 1
   education1:
 
-- name: Hwidong Kim (김휘동)
-  photo: hdkim.jpg
-  info: Undergraduate Researcher
-  email: mat2408@naver.com
-  number_educ: 1
-  education1:
-
 - name: Jae-Mo Yang (양재모)
   photo: jmyang.jpg
   info: Undergraduate Researcher
@@ -86,5 +79,33 @@
   photo: blank.png
   info: Undergraduate Researcher
   email: qkrduddms1@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+- name: 김수인
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: tndls142@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+- name: 편수빈
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: sbp111@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+- name: 김민석
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: irsam78@knu.ac.kr
+  number_educ: 1
+  education1: 
+
+- name: Nikkitt Mesiliy
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: mesiliy@knu.ac.kr
   number_educ: 1
   education1: 
