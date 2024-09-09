@@ -74,6 +74,7 @@ permalink: /members/
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
+2024.08 김휘동 <br>
 2024.02 진채영 KAIST Graduate School<br>
 2024.02 전승빈 KNU Graduate School<br>
 2024.02 전수형 LG Electronics<br>
