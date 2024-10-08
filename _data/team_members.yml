@@ -89,23 +89,9 @@
   number_educ: 1
   education1: 
 
-- name: 편수빈
-  photo: blank.png
-  info: Undergraduate Researcher
-  email: sbp111@knu.ac.kr
-  number_educ: 1
-  education1: 
-
 - name: 김민석
   photo: blank.png
   info: Undergraduate Researcher
   email: irsam78@knu.ac.kr
-  number_educ: 1
-  education1: 
-
-- name: Nikkitt Mesiliy
-  photo: blank.png
-  info: Undergraduate Researcher
-  email: mesiliy@knu.ac.kr
   number_educ: 1
   education1: 
