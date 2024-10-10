@@ -1,3 +1,17 @@
+- title: "Adaptive Event-Triggered Stochastic Estimator-Based Sampled-Data Fuzzy Control for Fractional-Order Permanent Magnet Synchronous Generator-Based Wind Energy Systems"
+  image: blank.png
+  authors: G. Narayanan, Sangtae Ahn, Yong Wang, Jae Hoon Jeong, Young Hoon Joo
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417424024035
+    display: Expert Systems with Applications (2024)
+
+- title: "Fractional Impulsive Controller Design of Fractional-Order Fuzzy Systems with Average Dwell-Time Strategy and Its Application to Wind Energy Systems"
+  image: blank.png
+  authors: G. Narayanan, M. Syed Ali, Sangtae Ahn, Young Hoon Joo, Rajagopal Karthikeyan, Girenggrai Rajchakit
+  link:
+    url: 
+    display: Communications in Nonlinear Science and Numerical Simulation (2024)
+
 - title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
   image: blank.png
   authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
