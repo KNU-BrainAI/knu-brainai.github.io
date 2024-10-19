@@ -33,48 +33,8 @@ permalink: /members/
   <h5>{{ member.interest }}</h5>
   
   {% if member.number_educ == 2 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}
-  {% endif %}
-  
-  {% if member.number_educ == 3 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}<br>
-  {{ member.education4 }}
-  {% endif %}
-  
-<br>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Alumni
-#### Masters Students
-2024.08 차도흔 PhD Student, KNU Graduate School <br>
-2024.02 이승훈 Researcher, Hanhwa Systems (Research Center) <br>
-2023.02 김예림 Researcher, DGIST <br>
-2023.02 이은찬 PhD Student, UNIST <br>
-
-#### Undergraduate Researchers  
-2024.08 김휘동 <br>
+  {{ m홍 KAIST Graduate School<br>
+2024.08 김휘동 KAIST Graduate School<br>
 2024.02 진채영 KAIST Graduate School<br>
 2024.02 전승빈 KNU Graduate School<br>
 2024.02 전수형 LG Electronics<br>
