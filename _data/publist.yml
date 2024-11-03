@@ -51,7 +51,7 @@
   image: DAFT.png
   authors: Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn
   link:
-    url: https://dl.acm.org/doi/proceedings/10.1145/3664647
+    url: https://dl.acm.org/doi/10.1145/3664647.3681662
     display: ACM Multimedia 2024
 
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
