@@ -1,3 +1,10 @@
+- title: "Reinforcement Learning-Based Prescribed-Time Fault-Tolerant Fuzzy Optimal Tracking Control for Stochastic Nonlinear Systems and Its Application to Robot Arm"
+  image: blank.png
+  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: Under Review (2024)
+    
 - title: "Observer-based Sampled-data Fuzzy Control for a Class of Fractional-order Nonlinear Systems via Average Delayed Impulses and Its Application"
   image: blank.png
   authors: G. Narayanan, Sangtae Ahn, Jae Hoon Jeong, Young Hoon Joo, Mohamed Rhaima
@@ -10,7 +17,7 @@
   authors: Saravanan Shanmugam, G. Narayanan, G. Brundhashree, Karthikeyan Rajagopal, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: Expert Systems with Applications (2024)
+    display: Under Review (2024)
 
 - title: "Adaptive Event-Triggered Stochastic Estimator-Based Sampled-Data Fuzzy Control for Fractional-Order Permanent Magnet Synchronous Generator-Based Wind Energy Systems"
   image: blank.png
@@ -38,14 +45,14 @@
   authors: Mourad Kchaoua, G. Narayanan, M. Syed Ali, R. Perumald, Sangtae Ahn, Bandana Priya
   link:
     url: 
-    display: Neurocomputing (2024)
+    display: Under Review (2024)
 
 - title: "Context-aware dynamic integration for scene recognition"
   image: Scene.png
   authors: Chan Ho Bae, Sangtae Ahn
   link:
     url: 
-    display: Pattern Recognition Letters (2024)
+    display: Under Review (2024)
 
 - title: "STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
   image: SAC.png
@@ -73,21 +80,21 @@
   authors: Samee Ullah Khan, Maryam Sultana, Sufyan Danish, Deepak Gupta, Norah Saleh Alghamdi, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: Engineering Applications of Artificial Intelligence (2024)
+    display: Under Review (2024)
   
 - title: "Optimal Fractional Sliding-Mode Control for Fuzzy Systems Based on Actor-Critic Reinforcement Learning Scheme"
   image: RL.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: Journal of the Franklin Institute (2024)
+    display: Under Review (2024)
 
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: ADV.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: Biocybernetics and Biomedical Engineering (2024)
+    display: Under Review (2024)
 
 - title: "Object Detection in Surveillance Video using EEG with Domain Adaptation Approach"
   image: Surveillance.png
