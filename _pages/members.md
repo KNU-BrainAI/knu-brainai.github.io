@@ -66,10 +66,10 @@ permalink: /members/
   
 ## Alumni
 #### Masters Students
-2024.08 차도흔 PhD Student, KNU Graduate School <br>
-2024.02 이승훈 Researcher, Hanhwa Systems (Research Center) <br>
-2023.02 김예림 Researcher, DGIST <br>
-2023.02 이은찬 PhD Student, UNIST <br>
+2024.08 차도흔 PhD Student @ KNU Graduate School <br>
+2024.02 이승훈 Researcher @ Hanhwa Systems (Research Center) <br>
+2023.02 김예림 Researcher @ DGIST <br>
+2023.02 이은찬 PhD Student @ UNIST <br>
 
 #### Undergraduate Researchers  
 2024.12 민윤홍 KAIST Graduate School<br>
