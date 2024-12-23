@@ -72,6 +72,7 @@ permalink: /members/
 2023.02 이은찬 PhD Student @ UNIST <br>
 
 #### Undergraduate Researchers  
+2024.12 김민석 Samsung Electronics<br>
 2024.12 박성국 Hyundai Mobis<br>
 2024.12 박영은 Hanhwa Systems<br>
 2024.12 민윤홍 KAIST Graduate School<br>
