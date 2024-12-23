@@ -66,6 +66,7 @@ permalink: /members/
   
 ## Alumni
 #### Master Students
+2025.02 이지훈 PhD Student @ KNU Graduate School <br>
 2024.08 차도흔 PhD Student @ KNU Graduate School <br>
 2024.02 이승훈 Researcher @ Hanhwa Systems (Research Center) <br>
 2023.02 김예림 Researcher @ DGIST <br>
