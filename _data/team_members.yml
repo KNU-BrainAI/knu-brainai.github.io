@@ -53,45 +53,10 @@
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
-  
-- name: Yunhong Min (민윤홍)
-  photo: yhmin2.jpg
-  info: Undergraduate Researcher
-  email: dbsghd363@knu.ac.kr
-  number_educ: 1
-  education1:
-
-- name: Jaemo Yang (양재모)
-  photo: jmyang.jpg
-  info: Undergraduate Researcher
-  email: didwoah@knu.ac.kr
-  number_educ: 1
-  education1: 
-
-- name: Seongguk Park (박성국)
-  photo: psk.jpg
-  info: Undergraduate Researcher
-  email: psk2013@knu.ac.kr
-  number_educ: 1
-  education1: 
-
-- name: Yeongeun Park (박영은)
-  photo: blank.png
-  info: Undergraduate Researcher
-  email: qkrduddms1@knu.ac.kr
-  number_educ: 1
-  education1: 
 
 - name: 김수인
   photo: blank.png
   info: Undergraduate Researcher
   email: tndls142@knu.ac.kr
   number_educ: 1
-  education1: 
-
-- name: 김민석
-  photo: blank.png
-  info: Undergraduate Researcher
-  email: irsam78@knu.ac.kr
-  number_educ: 1
-  education1: 
+  education1:
