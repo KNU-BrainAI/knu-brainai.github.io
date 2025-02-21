@@ -67,6 +67,13 @@
   link:
     url: 
     display: in revision, Soft Computing (2025)
+
+- title: "Dynamic Adaptive Event-Triggered Mechanism for Fractional-Order Nonlinear Multi-Agent Systems with Actuator Saturation and External Disturbances: Application to Synchronous Generators"
+  image: blank.png
+  authors: G. Narayananan, M. Baskar, V. Gokulakrishnan, Sangtae Ahn
+  link:
+    url: https://www.mdpi.com/2227-7390/13/3/524
+    display: Mathematics (2025)
     
 - title: "STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
   image: SAC.png
