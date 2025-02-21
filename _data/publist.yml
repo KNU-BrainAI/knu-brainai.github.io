@@ -38,35 +38,35 @@
   authors: Chan Ho Bae, Sangtae Ahn
   link:
     url: 
-    display: under review
+    display: in revision, Pattern Recognition Letters (2025)
   
 - title: "Multimodal Feature Fusion for Human Activity Recognition Using Human-Centric Temporal Transformers "
   image: Fusion.png
   authors: Samee Ullah Khan, Maryam Sultana, Sufyan Danish, Deepak Gupta, Norah Saleh Alghamdi, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: under review
+    display: in revision, Engineering Applications of Artificial Intelligence (2025)
   
-- title: "Optimal Fractional Sliding-Mode Control for Fuzzy Systems Based on Actor-Critic Reinforcement Learning Scheme"
+- title: "Optimal Fractional Fuzzy Sliding-Mode Control for Fractional-Order Fuzzy Systems Based on Actor-Critic Reinforcement Learning Scheme"
   image: RL.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: under review
+    display: in revision, Journal of the Franklin Institute (2025)
 
 - title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
   image: Intelligent.PNG
   authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: IEEE Transactions on Cybernetics (2025)
+    display: accepted, IEEE Transactions on Cybernetics (2025)
 
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
   image: Memristive.png
   authors: G. Narayananan, M. Syed Ali, Sangtae Ahn, Rajagopal Karthikeyan, Girenggrai Rajchakit, J. Anuwat
   link:
     url: 
-    display: Soft Computing (2025)
+    display: in revision, Soft Computing (2025)
     
 - title: "STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
   image: SAC.png
