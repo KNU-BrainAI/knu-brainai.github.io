@@ -6,6 +6,14 @@
   education1: Ph.D., Mathematics
   education2: Thiruvalluvar University
 
+- name: Zulfiqar Ahmad Khan
+  photo: Zulfiqar.jpg
+  info: Postdoctoral Researcher
+  email: zulfiqar@sju.ac.kr
+  number_educ: 2
+  education1: Ph.D., Software Convergence
+  education2: Sejong University
+
 - name: Hyeonjin Jang (장현진)
   photo: hjjang.jpg
   info: Integrated MS-Ph.D. Student
@@ -29,14 +37,6 @@
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
-  
-- name: Chan Ho Bae (배찬호)
-  photo: chbae.jpg
-  info: M.S. Student
-  email: bch6042@gmail.com
-  number_educ: 2
-  education1: B.S., Metallurgical Engineering
-  education2: Pukyong National University
 
 - name: Seungbhin Jeon (전승빈)
   photo: sbjeon.jpg
@@ -46,7 +46,7 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
 
-- name: 채경모
+- name: Kyeongmo Chae (채경모)
   photo: kmchae.jpg
   info: M.S. Student
   email: ckm1994@knu.ac.kr
@@ -58,5 +58,26 @@
   photo: blank.png
   info: Undergraduate Researcher
   email: tndls142@knu.ac.kr
+  number_educ: 1
+  education1:
+
+- name: 강문성
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: rkdanstjd1018@gmail.com
+  number_educ: 1
+  education1:
+
+- name: 김윤지
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: kyj030616@naver.com
+  number_educ: 1
+  education1:
+
+- name: 장서윤
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: syn@knu.ac.kr
   number_educ: 1
   education1:
