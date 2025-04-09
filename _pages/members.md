@@ -66,12 +66,12 @@ permalink: /members/
   
 ## Alumni
 #### Master Students
-2025.02 이지훈 PhD Student @ KNU Graduate School <br>
-2025.02 배찬호 Researcher @ AI Robotics <br>
-2024.08 차도흔 PhD Student @ KNU Graduate School <br>
-2024.02 이승훈 Researcher @ Hanhwa Systems <br>
-2023.02 김예림 Researcher @ DGIST <br>
-2023.02 이은찬 PhD Student @ UNIST <br>
+2025.02 이지훈 PhD Student, KNU Graduate School <br>
+2025.02 배찬호 Researcher, AI Robotics <br>
+2024.08 차도흔 PhD Student, KNU Graduate School <br>
+2024.02 이승훈 Researcher, Hanhwa Systems <br>
+2023.02 김예림 Researcher, DGIST <br>
+2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
 2024.12 양재모 Samsung Electronics<br>
