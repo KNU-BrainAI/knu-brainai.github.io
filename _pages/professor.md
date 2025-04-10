@@ -11,6 +11,7 @@ permalink: /professor/
 Sangtae Ahn (안상태) <br/><br/>
 Vice Dean @ College of IT Engineering  <br/>
 Associate Professor @ School of Electronics Engineering<br/><br/>
+Chief Technical Officer @ CoCo.H <br/>
 Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn@knu.ac.kr<br/>
