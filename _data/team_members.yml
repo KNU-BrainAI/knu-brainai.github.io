@@ -54,6 +54,14 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
 
+- name: Md Tanvir Islam
+  photo: tanvir.jfif
+  info: Research Intern
+  email: tanvirnwu@g.skku.edu
+  number_educ: 2
+  education1: B.S., Artificial Intelligence
+  education2: Sungkyunkwan University
+
 - name: 김수인
   photo: blank.png
   info: Undergraduate Researcher
