@@ -8,6 +8,10 @@ permalink: /teaching/
 
 
 # Teaching 
+#### Spring 2025
+- Deep Learning
+- Data Engineering & Application
+
 #### Fall 2024
 - Advanced Software Engineering
 - C Programming
