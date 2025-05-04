@@ -1,14 +1,26 @@
 - date: Feb 2025
-  headline: "A paper has been accepted in IEEE Transactions on Cybernetics <a href='https://ieeexplore.ieee.org/document/10916807'>link</a>"
+  headline: "Narayanan 박사후연구원 IEEE Transactions on Cybernetics 논문 게재 <a href='https://ieeexplore.ieee.org/document/10916807'>link</a>"
   details: "Title: Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
+
+- date: Jan 2025
+  headline: "Narayanan 박사후연구원 Expert Systems with Applications 논문 게재 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0957417424024035'>link</a>"
+  details: "Title: Adaptive event-triggered stochastic estimator-based sampled-data fuzzy control for fractional-order permanent magnet synchronous generator-based wind energy systems"
+
+- date: Jan 2025
+  headline: "Narayanan 박사후연구원 Communications in Nonlinear Science and Numerical Simulation 논문 게재 <a href='https://www.sciencedirect.com/science/article/pii/S1007570424005793'>link</a>"
+  details: "Title: Fractional impulsive controller design of fractional-order fuzzy systems with average dwell-time strategy and its application to wind energy systems"
 
 - date: Dec 2024
   headline: "학부생 양재모, Computers in Biology and Medicine 논문 게재 <a href='https://www.sciencedirect.com/science/article/abs/pii/S001048252401610X'>link</a>"
   details: "Title: STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
 
-- date: July 2024
-  headline: "석사과정 이지훈, 학사과정 민윤홍 김휘동 ACM Multimedia 2024 국제학회 논문 게재 승인 <a href='https://dl.acm.org/doi/10.1145/3664647.3681662'>link</a>"
+- date: Oct 2024
+  headline: "석사과정 이지훈, 학사과정 민윤홍 김휘동 ACM Multimedia 2024 국제학회 논문 게재 <a href='https://dl.acm.org/doi/10.1145/3664647.3681662'>link</a>"
   details: "Title: DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
+
+- date: July 2024
+  headline: "석사과정 이지훈, 정보과학회 논문지 게재 <a href='https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11852163'>link</a>"
+  details: "Title: Improvement of Background Inpainting using Binary Masking of a Generated Image"
 
 - date: April 2024
   headline: "석사과정 전승빈, 교육부 석사과정생 연구장려금 지원사업 선정 <a href='https://see.knu.ac.kr/content/board/news.html?pg=vv&fidx=102752'>link</a>"
