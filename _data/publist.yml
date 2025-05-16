@@ -3,7 +3,7 @@
   authors: Md Tanvir Islam, Doheun Cha, Zulfiqar Ahmad Khan, Khan Muhammad, Sangtae Ahn
   link:
     url: 
-    display: in preparation, NeurIPS 2025
+    display: Under Review (NeurIPS 2025)
 
 
 - title: "Anonymous title"
@@ -11,77 +11,77 @@
   authors: Jihoon Lee, Seungbhin Jeon, Sangtae Ahn
   link:
     url: 
-    display: under review, ICCV 2025
+    display: Under Review (ICCV 2025)
 
 - title: "Anonymous title"
   image: blank.png
   authors: Md Tanvir Islam, Inzamamul Alam, Simon S. Woo, Sangtae Ahn, Mingfu Xiong, Sambit Bakshi, Saeed Anwar, Khan Muhammad
   link:
     url: 
-    display: under review, ICCV 2025
+    display: Under Review (ICCV 2025)
 
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: blank.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: under review, Pattern Recognition (2025)
+    display: Under Review (Pattern Recognition 2025)
 
 - title: "Adaptive Boundary Control for Delayed Fractional-Order Multi-Agent Systems with Parabolic PDEs and Its Application to the Temperature Dynamics of Cooling Fins on the Surface of High-Speed Aircraft"
   image: blank.png
   authors: Saravanan Shanmugam, G. Narayanan, Mohamed Rhaima, Karthikeyan Rajagopal, Sangtae Ahn
   link:
     url: 
-    display: under review, Communications in Nonlinear Science and Numerical Simulation (2025)
+    display: Under Review (Communications in Nonlinear Science and Numerical Simulation 2025)
 
 - title: "Reinforcement Learning-Based Prescribed-Time Fault-Tolerant Fuzzy Optimal Tracking Control for Stochastic Nonlinear Systems and Its Application to Robot Arm"
   image: blank.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: under review, IEEE Transactions on Systems, Man and Cybernetics (2025)
+    display: Under Review (IEEE Transactions on Systems, Man and Cybernetics 2025)
     
 - title: "Observer-based Sampled-data Fuzzy Control for a Class of Fractional-order Nonlinear Systems via Average Delayed Impulses and Its Application"
   image: blank.png
   authors: G. Narayanan, Sangtae Ahn, Jae Hoon Jeong, Young Hoon Joo, Mohamed Rhaima
   link:
     url: 
-    display: under review, International Journal of Fuzzy Systems (2025)
+    display: Under Review (International Journal of Fuzzy Systems 2025)
 
 - title: "Neural-network-based stochastic faulty estimator sampled data controller for uncertain dynamical multi-agent systems with communication delay and its  application to unmanned surface vehicles"
   image: blank.png
   authors: Saravanan Shanmugam, G. Narayanan, G. Brundhashree, Karthikeyan Rajagopal, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: under review, Expert Systems with Applications (2025)
+    display: Under Review (Expert Systems with Applications 2025)
 
 - title: "Event-triggered Consensus for Fractional-order Multi-agent Systems with Finite-time Control Scheme: Its Application to Interconnected Power Systems"
   image: blank.png
   authors: Mourad Kchaoua, G. Narayanan, M. Syed Ali, R. Perumald, Sangtae Ahn, Bandana Priya
   link:
     url: 
-    display: under review, Neurocomputing (2025)
+    display: Under Review (Neurocomputing 2025)
 
 - title: "Context-aware dynamic integration for scene recognition"
   image: Scene.png
   authors: Chan Ho Bae, Sangtae Ahn
   link:
     url: 
-    display: in revision, Pattern Recognition Letters (2025)
+    display: In Revision (Pattern Recognition Letters 2025)
   
 - title: "Multimodal Feature Fusion for Human Activity Recognition Using Human-Centric Temporal Transformers "
   image: Fusion.png
   authors: Samee Ullah Khan, Maryam Sultana, Sufyan Danish, Deepak Gupta, Norah Saleh Alghamdi, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: in revision, Engineering Applications of Artificial Intelligence (2025)
+    display: In Revision (Engineering Applications of Artificial Intelligence 2025)
   
 - title: "Optimal Fractional Fuzzy Sliding-Mode Control for Fractional-Order Fuzzy Systems Based on Actor-Critic Reinforcement Learning Scheme"
   image: RL.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: in revision, Journal of the Franklin Institute (2025)
+    display: In Revision (Journal of the Franklin Institute 2025)
 
 - title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
   image: Intelligent.PNG
@@ -95,7 +95,7 @@
   authors: G. Narayananan, M. Syed Ali, Sangtae Ahn, Rajagopal Karthikeyan, Girenggrai Rajchakit, J. Anuwat
   link:
     url: 
-    display: in revision, Soft Computing (2025)
+    display: In Revision (Soft Computing 2025)
 
 - title: "Dynamic Adaptive Event-Triggered Mechanism for Fractional-Order Nonlinear Multi-Agent Systems with Actuator Saturation and External Disturbances: Application to Synchronous Generators"
   image: blank.png
