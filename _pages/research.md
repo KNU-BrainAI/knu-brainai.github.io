@@ -12,7 +12,7 @@ We believe that better understanding of the brain plays a vital role in developi
 
 - **Brain-Inspired AI** ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 500px; float: right"}
   
-  The brain provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence (AI) and can provide validation of AI techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system. Our view is that leveraging in-sights gained from neuroscience research will expedite progress in AI research. As convolutional neural networks are inspired by the vision system in the brain, understanding brain functions is a key for developing novel deep learning models. We study neuroscience to understand the brain and develop brain-like neural networks based on how the brain works.
+  The brain provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence (AI) and can provide validation of AI techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system. Our view is that leveraging insights gained from neuroscience research will expedite progress in AI research.
 
 - **Generative AI** ![]({{ site.url }}{{ site.baseurl }}/images/DAFT-GAN.png){: style="width: 500px; float: right"} 
   
