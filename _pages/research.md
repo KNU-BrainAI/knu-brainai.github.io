@@ -10,7 +10,7 @@ permalink: /research/
 
 We believe that better understanding of the brain plays a vital role in developing intelligent systems. Since rapid progress has been made in the artificial intelligence (AI) field, it is crucial to investigate the importance of the brain to come up with ideas that will accelerate and guide AI research. Our lab is interested in the following research areas but not limited.<br><br>
 
-- **Brain-Inspired AI** ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 400px; float: right"}
+- **Brain-Inspired AI** ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 500px; float: right"}
   
   The brain provides a rich source of inspiration for new types of algorithms and architectures of artificial intelligence (AI) and can provide validation of AI techniques that already exist. If a known algorithm is subsequently found to be implemented in the brain, then that is strong support for its plausibility as an integral component of an overall general intelligence system. Our view is that leveraging in-sights gained from neuroscience research will expedite progress in AI research. As convolutional neural networks are inspired by the vision system in the brain, understanding brain functions is a key for developing novel deep learning models. We study neuroscience to understand the brain and develop brain-like neural networks based on how the brain works.
 
