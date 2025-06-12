@@ -16,7 +16,7 @@ We believe that better understanding of the brain plays a vital role in developi
 
 - **Generative AI** ![]({{ site.url }}{{ site.baseurl }}/images/DAFT-GAN.png){: style="width: 500px; float: right"} 
   
-  Although deep learning has revolutionized computer vision, current approaches have several major problems: typical vision datasets are labor intensive and costly to create while teaching only a narrow set of visual concepts; standard vision models are good at one task and one task only, and require significant effort to adapt to a new task; and models that perform well on benchmarks have disappointingly poor performance on stress tests, casting doubt on the entire deep learning approach to computer vision. To address these problems, we study a neural network that it is trained on a wide variety of images with a wide variety of natural language supervision that’s abundantly available on the internet to generate images of high visual qualityfrom text prompts. <br><br><br>
+  Generative AI is a branch of artificial intelligence focused on creating new content—such as text, images, audio, video, or code—by learning patterns from large datasets and then generating data that mimics or extends those patterns. Unlike traditional AI, which typically classifies, predicts, or analyzes existing data, generative AI produces entirely new data or media in response to prompts, often achieving results that closely resemble or even surpass human creativity. <br><br><br>
   
 - **Physical AI** ![]({{ site.url }}{{ site.baseurl }}/images/RT-2.png){: style="width: 500px; float: right"} 
   
