@@ -12,7 +12,7 @@ We believe that better understanding of the brain plays a vital role in developi
 
 - **Brain-Inspired AI** ![]({{ site.url }}{{ site.baseurl }}/images/cnn.png){: style="width: 500px; float: right"}
   
-  Brain-Inspired AI is a field of artificial intelligence that seeks to design systems and algorithms modeled after the structure, function, and principles of the human brain and nervous system. The goal is to create AI that can learn, reason, perceive, and adapt in ways that are more similar to human intelligence, leveraging insights from neuroscience, psychology, and cognitive science. Brain-Inspired AI is applied in advanced robotics, autonomous systems, cognitive computing, lifelong learning, and neuromorphic computing, among others. These applications benefit from the adaptability, robustness, and human-like reasoning capabilities.
+  Brain-Inspired AI is a field of artificial intelligence that seeks to design systems and algorithms modeled after the structure, function, and principles of the human brain and nervous system. The goal is to create AI that can learn, reason, perceive, and adapt in ways that are more similar to human intelligence, leveraging insights from neuroscience, psychology, and cognitive science. Brain-Inspired AI is applied in advanced robotics, autonomous systems, cognitive computing, lifelong learning, and neuromorphic computing, among others. These applications benefit from the adaptability, robustness, and human-like reasoning capabilities.<br><br><br>
 
 - **Generative AI** ![]({{ site.url }}{{ site.baseurl }}/images/DAFT-GAN.png){: style="width: 500px; float: right"} 
   
