@@ -76,12 +76,12 @@
     url: 
     display: In Revision (Engineering Applications of Artificial Intelligence 2025)
   
-- title: "Optimal Fractional Fuzzy Sliding-Mode Control for Fractional-Order Fuzzy Systems Based on Actor-Critic Reinforcement Learning Scheme"
+- title: "Optimal fractional fuzzy sliding-mode control for fractional-order fuzzy systems based on actor-critic reinforcement learning scheme"
   image: RL.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
-    url: 
-    display: In Revision (Journal of the Franklin Institute 2025)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0016003225002972
+    display: Journal of the Franklin Institute (2025)
 
 - title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
   image: Intelligent.PNG
