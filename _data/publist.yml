@@ -1,45 +1,44 @@
 - title: "Anonymous title"
   image: blank.png
-  authors: Md Tanvir Islam, Doheun Cha, Zulfiqar Ahmad Khan, Khan Muhammad, Sangtae Ahn
-  link:
-    url: 
-    display: Under Review (NeurIPS 2025)
-
-
-- title: "Anonymous title"
-  image: blank.png
   authors: Jihoon Lee, Seungbhin Jeon, Sangtae Ahn
   link:
     url: 
-    display: Under Review (ICCV 2025)
+    display: Under Review (WACV 2026)
 
 - title: "Anonymous title"
   image: blank.png
   authors: Md Tanvir Islam, Inzamamul Alam, Simon S. Woo, Sangtae Ahn, Mingfu Xiong, Sambit Bakshi, Saeed Anwar, Khan Muhammad
   link:
     url: 
-    display: Under Review (ICCV 2025)
+    display: Under Review (WACV 2026)
+
+- title: "Anonymous title"
+  image: blank.png
+  authors: Md Tanvir Islam, Doheun Cha, Zulfiqar Ahmad Khan, Khan Muhammad, Sangtae Ahn
+  link:
+    url: 
+    display: Under Review (NeurIPS 2025)
 
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: blank.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: 
-    display: Under Review (Pattern Recognition 2025)
+    display: Under Review (Biomedical Engineering Letters 2025)
 
 - title: "Adaptive Boundary Control for Delayed Fractional-Order Multi-Agent Systems with Parabolic PDEs and Its Application to the Temperature Dynamics of Cooling Fins on the Surface of High-Speed Aircraft"
   image: blank.png
   authors: Saravanan Shanmugam, G. Narayanan, Mohamed Rhaima, Karthikeyan Rajagopal, Sangtae Ahn
   link:
     url: 
-    display: Under Review (Communications in Nonlinear Science and Numerical Simulation 2025)
+    display: Under Review (Journal of the Franklin Institute 2025)
 
 - title: "Reinforcement Learning-Based Prescribed-Time Fault-Tolerant Fuzzy Optimal Tracking Control for Stochastic Nonlinear Systems and Its Application to Robot Arm"
   image: blank.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: Under Review (IEEE Transactions on Systems, Man and Cybernetics 2025)
+    display: In Revision (IEEE Transactions on Systems, Man and Cybernetics: Systems 2025)
     
 - title: "Observer-based Sampled-data Fuzzy Control for a Class of Fractional-order Nonlinear Systems via Average Delayed Impulses and Its Application"
   image: blank.png
