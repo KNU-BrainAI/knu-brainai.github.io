@@ -74,13 +74,13 @@ permalink: /members/
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
-2024.12 양재모 Samsung Electronics<br>
-2024.12 김민석 Samsung Electronics<br>
-2024.12 편수빈 Samsung Electronics<br>
-2024.12 박성국 Hyundai Mobis<br>
-2024.12 박영은 Hanhwa Systems<br>
-2024.12 민윤홍 KAIST Graduate School<br>
-2024.08 김휘동 KAIST Graduate School<br>
+2025.02 양재모 Samsung Electronics<br>
+2025.02 김민석 Samsung Electronics<br>
+2025.02 편수빈 Samsung Electronics<br>
+2025.02 박성국 Hyundai Mobis<br>
+2025.02 박영은 Hanhwa Systems<br>
+2025.02 민윤홍 KAIST Graduate School<br>
+2025.02 김휘동 KAIST Graduate School<br>
 2024.02 진채영 KAIST Graduate School<br>
 2024.02 전승빈 KNU Graduate School<br>
 2024.02 전수형 LG Electronics<br>
@@ -93,5 +93,5 @@ permalink: /members/
 2022.02 박재성 KAIST Graduate School<br>
 2022.02 이창현 UNIST Graduate School<br>
 2021.08 박시은 KNU Graduate School<br>
-2021.06 권현수 LG Electronics <br>
+2021.08 권현수 LG Electronics <br>
 2021.02 이은찬 KNU Graduate School<br>
