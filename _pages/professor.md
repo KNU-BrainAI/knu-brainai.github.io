@@ -19,7 +19,7 @@ Phone: 053-950-5544<br/><br/>
 <br/><br/>
 
 #### Professional Services
-- 2025.01-present: Chief Technology Officer, CoCo.H
+- 2024.11-present: Chief Technology Officer, CoCo.H
 - 2023.04-present: Board Member, Brain Engineering Society of Korea
 - 2023.02-present: Technical Program Committee, International Joint Conference on Neural Networks (IJCNN)
 - 2023.01-present: Board Member, Korea Society for EEG and Neurophysiology
