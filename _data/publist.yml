@@ -14,10 +14,39 @@
 
 - title: "Anonymous title"
   image: blank.png
+  authors: 	Md Tanvir Islam, Inzamamul Alam, Khan Muhammad, Javier Del Ser, Sangtae Ahn
+  link:
+    url: 
+    display: Under Review (CIKM 2025)
+
+
+- title: "Anonymous title"
+  image: blank.png
   authors: Md Tanvir Islam, Doheun Cha, Zulfiqar Ahmad Khan, Khan Muhammad, Sangtae Ahn
   link:
     url: 
     display: Under Review (NeurIPS 2025)
+
+- title: "Reinforcement Learning-Based IT-2 Fuzzy Fractional-Order Sliding Mode Control for Leader-Follower Formation Tracking of Flexible-Joint Robots"
+  image: blank.png
+  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn 
+  link:
+    url: 
+    display: Under Review (IEEE Transactions on Fuzzy Systems 2025)
+
+- title: "Graph and Memory Augmented Incremental Learning Architecture for Power Forecasting"
+  image: blank.png
+  authors: Zulfiqar Ahmad Khan, Sangtae Ahn 
+  link:
+    url: 
+    display: Under Review (Applied Energy 2025)
+
+- title: "Dual-Event-Triggered Sliding Mode Security Control for Leader-Follower Spacecraft Swarms Under DoS Attacks"
+  image: blank.png
+  authors: G. Narayanan, M. Baskar, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: Under Review (IEEE SMC 2025)
 
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: blank.png
