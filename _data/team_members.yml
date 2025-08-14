@@ -30,6 +30,14 @@
   education1: M.S., Electronic and Electrical Engineering
   education2: Kyungpook National University
 
+- name: Md Tanvir Islam
+  photo: tanvir.png
+  info: Ph.D. Student
+  email: tanvirnwu@g.skku.edu
+  number_educ: 2
+  education1: M.S., Artificial Intelligence
+  education2: Sungkyunkwan University
+
 - name: Seungbhin Jeon (전승빈)
   photo: sbjeon.jpg
   info: M.S. Student
@@ -45,14 +53,6 @@
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
-
-- name: Md Tanvir Islam
-  photo: tanvir.png
-  info: Research Intern
-  email: tanvirnwu@g.skku.edu
-  number_educ: 2
-  education1: B.S., Artificial Intelligence
-  education2: Sungkyunkwan University
 
 - name: 김수인
   photo: blank.png
@@ -93,5 +93,12 @@
   photo: blank.png
   info: Undergraduate Researcher
   email: dltpdhks2302@naver.com
+  number_educ: 1
+  education1:
+
+- name: 조혁진
+  photo: blank.png
+  info: Undergraduate Researcher
+  email: hyper2611@naver.com
   number_educ: 1
   education1:
