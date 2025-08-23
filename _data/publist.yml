@@ -98,35 +98,35 @@
     display: Under Review (Neurocomputing 2025)
 
 - title: "Context-aware dynamic integration for scene recognition"
-  image: Scene.png
+  image: blank.png
   authors: Chan Ho Bae, Sangtae Ahn
   link:
     url: 
     display: In Revision (Pattern Recognition Letters 2025)
   
 - title: "Multimodal Feature Fusion for Human Activity Recognition Using Human-Centric Temporal Transformers "
-  image: Fusion.png
+  image: blank.png
   authors: Samee Ullah Khan, Maryam Sultana, Sufyan Danish, Deepak Gupta, Norah Saleh Alghamdi, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0952197625018469
     display: Engineering Applications of Artificial Intelligence (2025)
   
 - title: "Optimal fractional fuzzy sliding-mode control for fractional-order fuzzy systems based on actor-critic reinforcement learning scheme"
-  image: RL.png
+  image: blank.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0016003225002972
     display: Journal of the Franklin Institute (2025)
 
 - title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
-  image: Intelligent.PNG
+  image: blank.png
   authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
   link:
     url: https://ieeexplore.ieee.org/document/10916807
     display: IEEE Transactions on Cybernetics (2025)
 
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
-  image: Memristive.png
+  image: blank.png
   authors: G. Narayananan, M. Syed Ali, Sangtae Ahn, Rajagopal Karthikeyan, Girenggrai Rajchakit, J. Anuwat
   link:
     url: 
@@ -140,84 +140,84 @@
     display: Mathematics (2025)
     
 - title: "STCNet: Spatio-Temporal Cross Network with Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG"
-  image: SAC.png
+  image: blank.png
   authors: Jaemo Yang, Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: https://www.sciencedirect.com/science/article/pii/S001048252401610X
     display: Computers in Biology and Medicine (2025)
 
 - title: "Fractional Impulsive Controller Design of Fractional-Order Fuzzy Systems with Average Dwell-Time Strategy and Its Application to Wind Energy Systems"
-  image: Fractional.png
+  image: blank.png
   authors: G. Narayanan, M. Syed Ali, Sangtae Ahn, Young Hoon Joo, Rajagopal Karthikeyan, Girenggrai Rajchakit
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1007570424005793
     display: Communications in Nonlinear Science and Numerical Simulation (2025)
 
 - title: "Adaptive Event-Triggered Stochastic Estimator-Based Sampled-Data Fuzzy Control for Fractional-Order Permanent Magnet Synchronous Generator-Based Wind Energy Systems"
-  image: Adaptive.jpg
+  image: blank.png
   authors: G. Narayanan, Sangtae Ahn, Yong Wang, Jae Hoon Jeong, Young Hoon Joo
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0957417424024035
     display: Expert Systems with Applications (2025)
 
 - title: "DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
-  image: DAFT.png
+  image: blank.png
   authors: Jihoon Lee, Yunhong Min, Hwidong Kim, Sangtae Ahn
   link:
     url: https://dl.acm.org/doi/10.1145/3664647.3681662
     display: ACM Multimedia 2024
 
 - title: "Object Detection in Surveillance Video using EEG with Domain Adaptation Approach"
-  image: Surveillance.png
+  image: blank.png
   authors: Min-Hu Yun, Hyeonjin Jang, Sangtae Ahn, Hyun-Chul Kim
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10480519
     display: 12th International Winter Conference on Brain-Computer Interface (2024)
 
 - title: "Optimizing Prompts using In-Context Few-Shot Learning for Text-to-Image Generative Models"
-  image: Prompt.png
+  image: blank.png
   authors: Seunghun Lee, Jihoon Lee, Chan Ho Bae, Myung-Seok Choi, Ryong Lee, Sangtae Ahn
   link:
     url: https://ieeexplore.ieee.org/document/10378642
     display: IEEE Access (2024)
 
 - title: "TSANet: Multibranch Attention Deep Neural Network for Classifying Tactile Selective Attention in Brain-Computer Interfaces"
-  image: TSANet.png
+  image: blank.png
   authors: Hyeonjin Jang, Jae Seong Park, Sung Chan Jun, Sangtae Ahn
   link:
     url: https://link.springer.com/article/10.1007/s13534-023-00309-4
     display: Biomedical Engineering Letters (2024)
     
 - title: "Experimental Study of Morphological Analyzers for Topic Categorization in News Articles"
-  image: Morp.png
+  image: blank.png
   authors: Sangtae Ahn
   link:
     url: https://www.mdpi.com/2076-3417/13/19/10572
     display: Applied Sciences (2023)
 
 - title: "Improving the performance of object detection by preserving balanced class distribution"
-  image: ObjectDetection.png
+  image: blank.png
   authors: Heewon Lee, Sangtae Ahn
   link:
     url: https://www.mdpi.com/2227-7390/11/21/4460
     display: Mathematics (2023)
 
 - title: "Individualized Classification of Target Detection in Brain-Computer Interface"
-  image: Individualized.png
+  image: blank.png
   authors: Hyeonjin Jang, Min-Hu Yun, Jihoon Lee, Hyun-Chul Kim, Sangtae Ahn
   link:
     url:
     display: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2023)
   
 - title: "Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial"
-  image: alphaSCZ.png
+  image: blank.png
   authors: Mengsen Zhang, Rachel B. Force, Christopher Walker, Sangtae Ahn, L. Fredrik Jarskog, Flavio Frohlich
   link:
     url: https://www.nature.com/articles/s41537-022-00321-0
     display: Schizophrenia (2022)
 
 - title: "Individualized Diagnosis of Preclinical Alzheimer’s Disease using Deep Neural Networks"
-  image: RSEEG_AD.jpg
+  image: blank.png
   authors: Jinhee Park, Sehyeon Jang, Jeonghwan Gwak, Byeong C. Kim, Jang Jae Lee, Kyu Yeong Choi, Kun Ho Lee, Sung Chan Jun, Gil-Jin Jang, Sangtae Ahn
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0957417422015913?dgcid=author#!
@@ -244,13 +244,6 @@
     url: https://www.koreascience.kr/article/CFKO202226455339339.page
     display: The 34th Annual Conference on Human and Language Technology (2022)
   
-- title: "Prompt-based In-Context Learning for Korean Question and Answering"
-  image: blank.png
-  authors: Eunchan Lee, Sangtae Ahn
-  link:
-    url:
-    display: Korean Artificial Intelligence Association Summer Conference (2022)
-  
 - title: "Comparative Study of Multiclass Text Classification in Research Proposals Using Pretrained Language Models"
   image: blank.png
   authors: Eunchan Lee, Changhyeon Lee, Sangtae Ahn
@@ -275,21 +268,21 @@
     display: Neuromodulation (2021)
 
 - title: "Transcranial Alternating Current Stimulation Entrains Alpha Oscillations by Preferential Phase Synchronization of Fast-Spiking Cortical Neurons to Stimulation Waveform"
-  image: Ferret.png
+  image: blank.png
   authors: Wei Huang, Iain Stitt, Ehsan Negahbani, D.J. Passey, Sangtae Ahn, Marshall Davey, Moritz Dannhauer, Thien Doan, Anna Hoover, Angel Peterchev, Susanne Radtke-Schuller, Flavio Frohlich
   link:
     url: https://www.nature.com/articles/s41467-021-23021-2
     display: Nature Communications (2021)
     
 - title: "Pinging the Brain with Transcranial Magnetic Stimulation Reveals Cortical Reactivity in Time and Space"
-  image: TEP.png
+  image: blank.png
   authors: Sangtae Ahn, Flavio Frohlich
   link:
     url: https://www.brainstimjrnl.com/article/S1935-861X(21)00023-1/fulltext
     display: Brain Stimulation (2021)
     
 - title: "Progesterone modulates theta oscillations in the frontal-parietal network"
-  image: Progesteron.png
+  image: blank.png
   description: 
   authors: Justin Riddle, Sangtae Ahn, Trevor McPherson, Susan Girdler, Flavio Frohlich
   link:
@@ -297,14 +290,14 @@
     display:  Psychophysiology (2020)
 
 - title: "Neurophysiological Substrates of Configural Face Perception in Schizotypy"
-  image: Schizotypy.png
+  image: blank.png
   authors: Sangtae Ahn, Caroline Lustenberger, L. Fredrik Jarskog, Flavio Frohlich
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0920996419305031
     display: Schizophrenia Research (2020)
     
 - title: "Exploring the relationship between geomagnetic activity and human heart rate variability"
-  image: HRV.png
+  image: blank.png
   authors: Matthew Mattoni†, Sangtae Ahn†, Flavio Frohlich
   link:
     url: https://link.springer.com/article/10.1007/s00421-020-04369-7
