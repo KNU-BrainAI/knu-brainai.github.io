@@ -19,7 +19,6 @@
     url: 
     display: Under Review
 
-
 - title: "Anonymous title (related to Spiking Neural Network)"
   image: blank.png
   authors: Md Tanvir Islam, Doheun Cha, Khan Muhammad, Sangtae Ahn
@@ -97,7 +96,7 @@
     url: 
     display: JKAIA 2025
 
-- title: "KF-SSM:Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
+- title: "KF-SSM: Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
   image: blank.png
   authors: G. Narayanan, Md Tanvir Islam, Sangmoon Lee, Sangtae Ahn
   link:
@@ -116,7 +115,7 @@
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: IEEE Transactions on Systems, Man and Cybernetics: Systems (2025)
+    display: IEEE Transactions on Systems, Man and Cybernetics - Systems (2025)
     
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
   image: blank.png
