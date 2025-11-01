@@ -83,6 +83,27 @@
     url: 
     display: Under Review
 
+- title: "KLD-Guided Self Attention Map Extraction for Zero-Shot Hair Segmentation"
+  image: blank.png
+  authors: Suin Kim, Jihoon Lee, Moonsung Kang, Doheun Cha, Sangtae Ahn
+  link:
+    url: 
+    display: AAAI 2025
+
+- title: "Probabilistic Distribution Bridge for Text-Video Retrieval"
+  image: blank.png
+  authors: Kyeongmo Chae, Sangtae Ahn
+  link:
+    url: 
+    display: JKAIA 2025
+
+- title: "KF-SSM:Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
+  image: blank.png
+  authors: G. Narayanan, Md Tanvir Islam, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: IROS 2025
+
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: blank.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
