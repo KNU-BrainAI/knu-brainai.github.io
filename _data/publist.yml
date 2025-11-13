@@ -1,3 +1,10 @@
+- title: "Anonymous title (related to Diffusion for Image Restoration)"
+  image: blank.png
+  authors: Md Tanvir Islam, Inzamamul Alam, Simon S. Woo, Sangtae Ahn, Mingfu Xiong, Sambit Bakshi, Saeed Anwar, Khan Muhammad
+  link:
+    url: 
+    display: CVPR 2026 (under review)
+
 - title: "SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks"
   image: blank.png
   authors: Md Tanvir Islam, Inzamamul Alam, Sambit Bakshi, Khan Muhammad, Javier Del Ser, Sangtae Ahn
@@ -11,6 +18,34 @@
   link:
     url: 
     display: AAAI 2026 (accepted)
+
+- title: "KF-SSM: Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
+  image: blank.png
+  authors: G. Narayanan, Md Tanvir Islam, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: IROS 2025
+
+- title: "Probabilistic Distribution Bridge for Text-Video Retrieval"
+  image: blank.png
+  authors: Kyeongmo Chae, Sangtae Ahn
+  link:
+    url: 
+    display: JKAIA 2025
+
+- title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
+  image: blank.png
+  authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: https://ieeexplore.ieee.org/document/10916807
+    display: IEEE Transactions on Cybernetics (2025)
+
+- title: "Reinforcement Learning-Based Prescribed-Time Fault-Tolerant Fuzzy Optimal Tracking Control for Stochastic Nonlinear Systems and Its Application to Robot Arm"
+  image: blank.png
+  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: https://ieeexplore.ieee.org/document/11235956
+    display: IEEE Transactions on Systems, Man and Cybernetics - Systems (2025)
 
 - title: "Embedded machine learning framework for respiratory disease detection"
   image: blank.png
@@ -103,33 +138,12 @@
     url: 
     display: Under Review
 
-- title: "Probabilistic Distribution Bridge for Text-Video Retrieval"
-  image: blank.png
-  authors: Kyeongmo Chae, Sangtae Ahn
-  link:
-    url: 
-    display: JKAIA 2025
-
-- title: "KF-SSM: Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
-  image: blank.png
-  authors: G. Narayanan, Md Tanvir Islam, Sangmoon Lee, Sangtae Ahn
-  link:
-    url: 
-    display: IROS 2025
-
 - title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
   image: blank.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
     url: https://link.springer.com/article/10.1007/s13534-025-00529-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20251111&utm_content=10.1007/s13534-025-00529-w
     display: Biomedical Engineering Letters (2025)
-
-- title: "Reinforcement Learning-Based Prescribed-Time Fault-Tolerant Fuzzy Optimal Tracking Control for Stochastic Nonlinear Systems and Its Application to Robot Arm"
-  image: blank.png
-  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
-  link:
-    url: https://ieeexplore.ieee.org/document/11235956
-    display: IEEE Transactions on Systems, Man and Cybernetics - Systems (2025)
     
 - title: "Secure communication based on an impulsive and event-triggered synchronization control mechanism of fractional-order chaotic complex-valued memristive neural networks"
   image: blank.png
@@ -158,13 +172,6 @@
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0016003225002972
     display: Journal of the Franklin Institute (2025)
-
-- title: "Intelligent Resilient Security Control for Fractional-Order Multi-Agent Networked Systems Using Reinforcement Learning and Event-Triggered Communication Mechanism"
-  image: blank.png
-  authors: G. Narayanan, Rajagopal Karthikeyan, Sangmoon Lee, Sangtae Ahn
-  link:
-    url: https://ieeexplore.ieee.org/document/10916807
-    display: IEEE Transactions on Cybernetics (2025)
 
 - title: "Dynamic Adaptive Event-Triggered Mechanism for Fractional-Order Nonlinear Multi-Agent Systems with Actuator Saturation and External Disturbances: Application to Synchronous Generators"
   image: blank.png
