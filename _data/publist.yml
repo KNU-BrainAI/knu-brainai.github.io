@@ -1,3 +1,17 @@
+- title: "SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks"
+  image: blank.png
+  authors: Md Tanvir Islam, Inzamamul Alam, Sambit Bakshi, Khan Muhammad, Javier Del Ser, Sangtae Ahn
+  link:
+    url: 
+    display: WACV 2026 (accepted)
+
+- title: "Spatially-Guided Self Attention Map Extraction for Zero-Shot Hair Segmentation"
+  image: blank.png
+  authors: Suin Kim, Jihoon Lee, Moonsung Kang, Doheun Cha, Sangtae Ahn
+  link:
+    url: 
+    display: AAAI 2026 (accepted)
+
 - title: "Anonymous title (related to Diffusion for Image Editing)"
   image: blank.png
   authors: Jihoon Lee, Seungbhin Jeon, Sangtae Ahn
@@ -45,7 +59,7 @@
   authors: Zulfiqar Ahmad Khan, Sangtae Ahn 
   link:
     url: 
-    display: Under Review
+    display: Applied Energy (In Revision)
 
 - title: "Dual-Event-Triggered Sliding Mode Security Control for Leader-Follower Spacecraft Swarms Under DoS Attacks"
   image: blank.png
@@ -81,13 +95,6 @@
   link:
     url: 
     display: Under Review
-
-- title: "KLD-Guided Self Attention Map Extraction for Zero-Shot Hair Segmentation"
-  image: blank.png
-  authors: Suin Kim, Jihoon Lee, Moonsung Kang, Doheun Cha, Sangtae Ahn
-  link:
-    url: 
-    display: AAAI 2025
 
 - title: "Probabilistic Distribution Bridge for Text-Video Retrieval"
   image: blank.png
