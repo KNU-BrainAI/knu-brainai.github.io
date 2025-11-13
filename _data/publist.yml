@@ -5,6 +5,13 @@
     url: 
     display: CVPR 2026 (under review)
 
+- title: "Anonymous title (related to Image Watermarking)"
+  image: blank.png
+  authors: Inzamamul Alam, Md Tanvir Islam, Juhun Lee, Sangtae Ahn, Simon S. Woo
+  link:
+    url: 
+    display: ICLR 2026 (under review)
+
 - title: "SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks"
   image: blank.png
   authors: Md Tanvir Islam, Inzamamul Alam, Sambit Bakshi, Khan Muhammad, Javier Del Ser, Sangtae Ahn
