@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<br><br>
-
+<br>
 We are a research group in the [School of Electronics Engineering](https://see.knu.ac.kr/eng/) at [Kyungpook National University](http://en.knu.ac.kr/). Our lab investigates **artificial intelligence (AI)** inspired by the computational principles of the human brain. We aim to bridge neuroscience and machine learning to build more adaptive, efficient, and interpretable AI systems capable of reasoning, perception, and interaction.
 
 Our research spans three primary areas:
