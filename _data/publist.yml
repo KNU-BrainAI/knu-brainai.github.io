@@ -26,6 +26,13 @@
     url: 
     display: AAAI 2026 (accepted)
 
+- title: "Reinforcement Learning-Based IT-2 Fuzzy Fractional-Order Sliding Mode Control for Leader-Follower Formation Tracking of Flexible-Joint Robots"
+  image: blank.png
+  authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: IEEE Transactions on Fuzzy Systems (2026)
+
 - title: "KF-SSM: Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
   image: blank.png
   authors: G. Narayanan, Md Tanvir Islam, Sangmoon Lee, Sangtae Ahn
