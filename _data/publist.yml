@@ -30,7 +30,7 @@
   image: blank.png
   authors: G. Narayanan, Sangmoon Lee, Sangtae Ahn
   link:
-    url: 
+    url: https://ieeexplore.ieee.org/document/11271812
     display: IEEE Transactions on Fuzzy Systems (2026)
 
 - title: "KF-SSM: Long-Term Time Series Forecasting for Industrial Robot Calibration via Kalman Filter-Based State Space Model"
