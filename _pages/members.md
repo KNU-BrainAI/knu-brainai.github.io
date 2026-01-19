@@ -66,6 +66,7 @@ permalink: /members/
   
 ## Alumni
 #### Master Students
+2026.02 채경모 TBD <br>
 2025.02 이지훈 PhD Student, KNU Graduate School <br>
 2025.02 배찬호 Researcher, AI Robotics <br>
 2024.08 차도흔 PhD Student, KNU Graduate School <br>
@@ -74,10 +75,14 @@ permalink: /members/
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
+2026.02 이세완 SK hynix<br>
 2026.02 이예진 Samsung Medison<br>
-2026.02 이세완 SK hynix Electronics<br>
 2026.02 강문성 KNU Graduate School<br>
 2026.02 김수인 KNU Graduate School<br>
+2026.02 김윤지 TBD<br>
+2026.02 장서윤 TBD<br>
+2026.02 이재백 TBD<br>
+2026.02 오재성 TBD<br>
 2025.02 양재모 Samsung Electronics<br>
 2025.02 김민석 Samsung Electronics<br>
 2025.02 편수빈 Samsung Electronics<br>
