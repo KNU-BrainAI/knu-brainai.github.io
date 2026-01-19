@@ -74,7 +74,7 @@ permalink: /members/
 2023.02 이은찬 PhD Student, UNIST <br>
 
 #### Undergraduate Researchers  
-2025.02 이예진 Samsung Medison<br>
+2026.02 이예진 Samsung Medison<br>
 2026.02 이세완 SK hynix Electronics<br>
 2025.02 양재모 Samsung Electronics<br>
 2025.02 김민석 Samsung Electronics<br>
