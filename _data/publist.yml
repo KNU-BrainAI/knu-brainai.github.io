@@ -1,9 +1,16 @@
-- title: "Distribution-Alignment Bridge for Text-Video Retrieval"
+- title: "Anonymous title (related to Robot Manipulation)"
   image: blank.png
-  authors: Kyeongmo Chae, Sangtae Ahn
+  authors: Md Tanvir Islam, Sai Navaneet, Sangmoon Lee, Sangtae Ahn
   link:
     url: 
-    display: under review
+    display: IROS 2026 (under review)
+
+- title: "Anonymous title (related to Text-Video Retrieval)"
+  image: blank.png
+  authors: Kyeongmo Chae, Jihoon Lee, Sangtae Ahn
+  link:
+    url: 
+    display: ECCV 2026 (under review)
 
 - title: "Anonymous title (related to Diffusion for Image Restoration)"
   image: blank.png
