@@ -46,6 +46,14 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
 
+- name: 강문성 (Moonsung Kang)
+  photo: mskang.png
+  info: M.S. Student
+  email: rkdanstjd1018@gmail.com
+  number_educ: 2
+  education1: B.S., Electronics Engineering
+  education2: Kyungpook National University
+
 - name: 김수인 (Suin Kim)
   photo: sikim.png
   info: M.S. Student
@@ -54,13 +62,21 @@
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
 
-- name: 강문성 (Moonsung Kang)
-  photo: mskang.png
-  info: M.S. Student
-  email: rkdanstjd1018@gmail.com
+- name: 박종현
+  photo: blank.png
+  info: M.S. Student (Part-time)
+  email: pjh121310@knu.ac.kr@knu.ac.kr
   number_educ: 2
-  education1: B.S., Electronics Engineering
-  education2: Kyungpook National University
+  education1: B.S., Business Administration
+  education2: Yeungnam University
+
+- name: 최재훈
+  photo: blank.png
+  info: M.S. Student (Part-time)
+  email: jaehoun223@naver.com
+  number_educ: 2
+  education1: B.S., Mechanical and Automotive Engineering
+  education2: Keimyung University
 
 - name: 조혁진
   photo: hjcho.jpg
