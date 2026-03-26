@@ -113,4 +113,25 @@
   number_educ: 1
   education1:
 
+- name: 하연식
+  photo: ysha.jpg
+  info: Undergraduate Researcher
+  email: hasy02@naver.com
+  number_educ: 1
+  education1:
+
+- name: 박지환
+  photo: jwpark.jpg
+  info: Undergraduate Researcher
+  email: 6282pjh@gmail.com
+  number_educ: 1
+  education1:
+
+- name: 방승원
+  photo: swbang.jpg
+  info: Undergraduate Researcher
+  email: seungwonbang91@gmail.com
+  number_educ: 1
+  education1:
+
 
