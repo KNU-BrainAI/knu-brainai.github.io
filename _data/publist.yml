@@ -12,6 +12,13 @@
     url: 
     display: ECCV 2026 (under review)
 
+- title: "Fuzzy observer-based average-delayed impulsive control of fractional-order nonlinear systems using a sampling mechanism and its applications"
+  image: blank.png
+  authors: G. Narayanan, Sangtae Ahn, Young Hoon Joo, Yong Wang, Jae Hoon Jeong
+  link:
+    url: https://link.springer.com/article/10.1007/s11071-025-12135-7
+    display: Nonlinear Dynamics (2026)
+
 - title: "SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks"
   image: blank.png
   authors: Md Tanvir Islam, Inzamamul Alam, Sambit Bakshi, Khan Muhammad, Javier Del Ser, Sangtae Ahn
