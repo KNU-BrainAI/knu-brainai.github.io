@@ -152,7 +152,7 @@
     url: 
     display: Under Review
 
-- title: "Noise-Perturbed Adversarial Training for Hand Gesture Recognition in Surface EMG"
+- title: "Adversarially regularized transformer with channel-wise noise for robust hand gesture recognition using surface electromyography"
   image: blank.png
   authors: Doheun Cha, Dong-Gyu Lee, Sangtae Ahn
   link:
