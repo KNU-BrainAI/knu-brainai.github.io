@@ -2,63 +2,63 @@
   image: blank.png
   authors: Kyoungbeen Han, Md Tanvir Islam, Junpyo Jang, Hyeokjin JO, YeonSik Ha, Sangtae Ahn 
   link:
-    url: 
+    url: https://www.corl.org/
     display: CoRL 2026 (under review)
 
 - title: "Anonymous title (related to Robot Manipulation)"
   image: blank.png
   authors: Md Selim Sarowar, Md Tanvir Islam, Sungho Kim, Sangtae Ahn 
   link:
-    url: 
+    url: https://bmvc2026.bmva.org/
     display: BMVC 2026 (under review)
 
 - title: "Anonymous title (related to Image Watermark)"
   image: blank.png
   authors: Inzamamul Alam, Md Tanvir Islam, Juhun Lee, Sangtae Ahn, Simon S. Woo
   link:
-    url: 
+    url: https://bmvc2026.bmva.org/
     display: BMVC 2026 (under review)
 
 - title: "Anonymous title (related to Gesture Recognition)"
   image: blank.png
   authors: ASHIKUZZAMAN, Md Selim Sarowar, Md Tanvir Islam, Fath U Min Ullah, HAYOUNG OH, Sambit Bakshi, Sangtae Ahn, Khan Muhammad 
   link:
-    url: 
+    url: https://bmvc2026.bmva.org/
     display: BMVC 2026 (under review)
 
 - title: "Anonymous title (related to SNN Optimization)"
   image: blank.png
   authors: Doheun Cha, Sangtae Ahn
   link:
-    url: 
+    url: https://neurips.cc/
     display: NeurIPS 2026 (under review)
 
 - title: "Anonymous title (related to SNN Compression)"
   image: blank.png
   authors: Doheun Cha, Sangtae Ahn
   link:
-    url: 
+    url: https://neurips.cc/
     display: NeurIPS 2026 (under review)
 
 - title: "Anonymous title (related to Robot Manipulation)"
   image: blank.png
   authors: Md Tanvir Islam, Sai Navaneet, Sangmoon Lee, Sangtae Ahn
   link:
-    url: 
+    url: https://2026.ieee-iros.org/
     display: IROS 2026 (under review)
 
 - title: "Anonymous title (related to Reinforcement Learning)"
   image: blank.png
   authors: G. Narayanan, Sangtae Ahn, Sangmoon Lee
   link:
-    url: 
+    url: https://2026.ieee-iros.org/
     display: IROS 2026 (under review)
 
 - title: "Anonymous title (related to Text-Video Retrieval)"
   image: blank.png
   authors: Kyeongmo Chae, Jihoon Lee, Sangtae Ahn
   link:
-    url: 
+    url: https://eccv.ecva.net/
     display: ECCV 2026 (under review)
 
 - title: "Fuzzy observer-based average-delayed impulsive control of fractional-order nonlinear systems using a sampling mechanism and its applications"
