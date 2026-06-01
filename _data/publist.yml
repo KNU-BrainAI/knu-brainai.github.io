@@ -1,11 +1,39 @@
-- title: "Anonymous title (related to Optimization)"
+- title: "Anonymous title (related to Robot Manipulation)"
+  image: blank.png
+  authors: Kyoungbeen Han, Md Tanvir Islam, Junpyo Jang, Hyeokjin JO, YeonSik Ha, Sangtae Ahn 
+  link:
+    url: 
+    display: CoRL 2026 (under review)
+
+- title: "Anonymous title (related to Robot Manipulation)"
+  image: blank.png
+  authors: Md Selim Sarowar, Md Tanvir Islam, Sungho Kim, Sangtae Ahn 
+  link:
+    url: 
+    display: BMVC 2026 (under review)
+
+- title: "Anonymous title (related to Image Watermark)"
+  image: blank.png
+  authors: Inzamamul Alam, Md Tanvir Islam, Juhun Lee, Sangtae Ahn, Simon S. Woo
+  link:
+    url: 
+    display: BMVC 2026 (under review)
+
+- title: "Anonymous title (related to Gesture Recognition)"
+  image: blank.png
+  authors: ASHIKUZZAMAN, Md Selim Sarowar, Md Tanvir Islam, Fath U Min Ullah, HAYOUNG OH, Sambit Bakshi, Sangtae Ahn, Khan Muhammad 
+  link:
+    url: 
+    display: BMVC 2026 (under review)
+
+- title: "Anonymous title (related to SNN Optimization)"
   image: blank.png
   authors: Doheun Cha, Sangtae Ahn
   link:
     url: 
     display: NeurIPS 2026 (under review)
 
-- title: "Anonymous title (related to Compression)"
+- title: "Anonymous title (related to SNN Compression)"
   image: blank.png
   authors: Doheun Cha, Sangtae Ahn
   link:
