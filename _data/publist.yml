@@ -40,12 +40,12 @@
     url: https://neurips.cc/
     display: NeurIPS 2026 (under review)
 
-- title: "Anonymous title (related to Robot Manipulation)"
+- title: "SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation  "
   image: blank.png
   authors: Md Tanvir Islam, Sai Navaneet, Sangmoon Lee, Sangtae Ahn
   link:
     url: https://2026.ieee-iros.org/
-    display: IROS 2026 (under review)
+    display: IROS 2026 (accepted)
 
 - title: "Anonymous title (related to Reinforcement Learning)"
   image: blank.png
@@ -54,12 +54,12 @@
     url: https://2026.ieee-iros.org/
     display: IROS 2026 (under review)
 
-- title: "Anonymous title (related to Text-Video Retrieval)"
+- title: "Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval"
   image: blank.png
   authors: Kyeongmo Chae, Jihoon Lee, Sangtae Ahn
   link:
     url: https://eccv.ecva.net/
-    display: ECCV 2026 (under review)
+    display: ECCV 2026 (accepted)
 
 - title: "Fuzzy observer-based average-delayed impulsive control of fractional-order nonlinear systems using a sampling mechanism and its applications"
   image: blank.png
