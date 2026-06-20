@@ -47,13 +47,6 @@
     url: https://2026.ieee-iros.org/
     display: IROS 2026 (accepted)
 
-- title: "Anonymous title (related to Reinforcement Learning)"
-  image: blank.png
-  authors: G. Narayanan, Sangtae Ahn, Sangmoon Lee
-  link:
-    url: https://2026.ieee-iros.org/
-    display: IROS 2026 (under review)
-
 - title: "Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval"
   image: blank.png
   authors: Kyeongmo Chae, Jihoon Lee, Sangtae Ahn
