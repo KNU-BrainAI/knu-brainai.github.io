@@ -81,8 +81,6 @@ permalink: /members/
 2026.02 김수인 KNU Graduate School<br>
 2026.02 김윤지 TBD<br>
 2026.02 장서윤 TBD<br>
-2026.02 이재백 TBD<br>
-2026.02 오재성 TBD<br>
 2025.02 양재모 Samsung Electronics<br>
 2025.02 김민석 Samsung Electronics<br>
 2025.02 편수빈 Samsung Electronics<br>
