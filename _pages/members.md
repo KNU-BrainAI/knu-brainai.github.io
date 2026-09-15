@@ -8,7 +8,7 @@ permalink: /members/
 
 # Members
 
-- If you're interested in joining our team, please email Sangtae Ahn (<stahn@knu.ac.kr>)
+- If you're interested in joining our team, please email Sangtae Ahn (<stahn (at) knu (dot) ac (dot) kr>)
 
 {% assign number_printed = 0 %}
 
@@ -24,7 +24,7 @@ permalink: /members/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5>{{ member.info }}<br></h5>
-  <i>email: <{{ member.email }}></i>
+  <i>{% if member.email %}email: <{{ member.email }}>{% endif %}</i>
   
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
