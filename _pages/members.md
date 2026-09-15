@@ -8,7 +8,7 @@ permalink: /members/
 
 # Members
 
-- If you're interested in joining our team, please email Sangtae Ahn (<stahn (at) knu (dot) ac (dot) kr>)
+- If you're interested in joining our team, please email Sangtae Ahn (stahn (at) knu (dot) ac (dot) kr)
 
 {% assign number_printed = 0 %}
 
