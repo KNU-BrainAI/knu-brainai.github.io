@@ -8,7 +8,6 @@
 - name: 장현진 (Hyeonjin Jang)
   photo: hjjang.jpg
   info: Integrated MS-Ph.D. Student
-  email: janghj479@knu.ac.kr
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
@@ -16,7 +15,6 @@
 - name: 차도흔 (Doheun Cha)
   photo: DHCha.jpg
   info: Ph.D. Student
-  email: chadoheun@knu.ac.kr
   number_educ: 2
   education1: M.S., Electronic and Electrical Engineering
   education2: Kyungpook National University
@@ -24,7 +22,6 @@
 - name: 이지훈 (Jihoon Lee)
   photo: jhlee.jpg
   info: Ph.D. Student
-  email: leejh98123@knu.ac.kr
   number_educ: 2
   education1: M.S., Electronic and Electrical Engineering
   education2: Kyungpook National University
@@ -32,7 +29,6 @@
 - name: Md Tanvir Islam
   photo: tanvir.png
   info: Ph.D. Student
-  email: tanvirnwu@knu.ac.kr
   number_educ: 2
   education1: M.S., Artificial Intelligence
   education2: Sungkyunkwan University
@@ -40,7 +36,6 @@
 - name: 전승빈 (Seungbhin Jeon)
   photo: sbjeon.jpg
   info: M.S. Student
-  email: tmdqls0424@knu.ac.kr
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
@@ -48,7 +43,6 @@
 - name: 강문성 (Moonsung Kang)
   photo: mskang.png
   info: M.S. Student
-  email: rkdanstjd1018@gmail.com
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
@@ -56,7 +50,6 @@
 - name: 김수인 (Suin Kim)
   photo: sikim.png
   info: M.S. Student
-  email: tndls142@knu.ac.kr
   number_educ: 2
   education1: B.S., Electronics Engineering
   education2: Kyungpook National University
@@ -64,7 +57,6 @@
 - name: 박종현
   photo: jhpark.jpg
   info: M.S. Student
-  email: pjh121310@knu.ac.kr
   number_educ: 2
   education1: B.S., Business Administration
   education2: Yeungnam University
@@ -72,7 +64,6 @@
 - name: 최재훈
   photo: jhchoi.jpeg
   info: M.S. Student
-  email: jaehoun223@naver.com
   number_educ: 2
   education1: B.S., Mechanical and Automotive Engineering
   education2: Keimyung University
@@ -80,7 +71,6 @@
 - name: Sanaullah Chowdhury
   photo: blank.png
   info: M.S. Student
-  email: sanaullahashfat@gmail.com
   number_educ: 2
   education1: B.S., Electronics and Communication Engineering
   education2: Khulna University
@@ -88,7 +78,6 @@
 - name: Lameya Sabrin
   photo: blank.png
   info: M.S. Student
-  email: lameya.sabrin.09@gmail.com
   number_educ: 2
   education1: B.S., Electronics and Instrumentation Engineering
   education2: National Institute of Technology Silchar
@@ -96,56 +85,48 @@
 - name: 조혁진
   photo: hjcho.jpg
   info: Undergraduate Researcher
-  email: hyper2611@naver.com
   number_educ: 1
   education1:
 
 - name: 장승원
   photo: swjang.jpg
   info: Undergraduate Researcher
-  email: wkd8642@naver.com
   number_educ: 1
   education1:
   
 - name: 하연식
   photo: ysha.jpg
   info: Undergraduate Researcher
-  email: hasy02@naver.com
   number_educ: 1
   education1:
 
 - name: 김기범
   photo: kbkim.jpg
   info: Undergraduate Researcher
-  email: kibum0613@naver.com
   number_educ: 1
   education1:
 
 - name: 김현우
   photo: hwkim.jpg
   info: Undergraduate Researcher
-  email: kyl5822@naver.com
   number_educ: 1
   education1:
 
 - name: 박지환
   photo: jhpark.jpeg
   info: Undergraduate Researcher
-  email: 6282pjh@gmail.com
   number_educ: 1
   education1:
 
 - name: 방승원
   photo: swbang.jpg
   info: Undergraduate Researcher
-  email: seungwonbang91@gmail.com
   number_educ: 1
   education1:
 
 - name: 안찬우
   photo: cwahn.jpg
   info: Undergraduate Researcher
-  email: cksdn5153@gmail.com
   number_educ: 1
   education1:
 
