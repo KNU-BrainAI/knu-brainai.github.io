@@ -14,7 +14,7 @@ Kyungpook National University, Daegu, South Korea<br/>
 <br/>
 E-mail: stahn (at) knu (dot) ac (dot) kr <br/>
 Phone: +82-53-950-5544
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 #### Professional Services
 - 2026.01-present: Associate Editor, Biomedical Engineering Letters
